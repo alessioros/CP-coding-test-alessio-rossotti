@@ -1,0 +1,16 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+596;Boltenhagen;;;;;19470101;19470616;Gerätetyp unbekannt;Sonnenscheinregistrierung, konv.;eor;
+596;Boltenhagen;11.2;54;2;6.2;19470617;19480616;Sonnenscheinschreiber nach Campbell-Stokes;Sonnenscheinregistrierung, konv.;eor;
+596;Boltenhagen;11.23;53.98;2;6.2;19480617;19480617;Sonnenscheinschreiber nach Campbell-Stokes;Sonnenscheinregistrierung, konv.;eor;
+596;Boltenhagen;11.23;53.98;2;12;19480617;19590418;Sonnenscheinschreiber nach Campbell-Stokes;Sonnenscheinregistrierung, konv.;eor;
+596;Boltenhagen;11.23;53.98;2;12;19590421;19670630;Sonnenscheinschreiber nach Campbell-Stokes;Sonnenscheinregistrierung, konv.;eor;
+596;Boltenhagen;11.19;54;15;12;19670701;19670730;Sonnenscheinschreiber nach Campbell-Stokes;Sonnenscheinregistrierung, konv.;eor;
+596;Boltenhagen;11.19;54;15;2;19670701;19670901;Sonnenscheinschreiber nach Campbell-Stokes;Sonnenscheinregistrierung, konv.;eor;
+596;Boltenhagen;11.19;54;15;9;19670901;19920423;Sonnenscheinschreiber nach Campbell-Stokes;Sonnenscheinregistrierung, konv.;eor;
+596;Boltenhagen;11.19;54;15;9.1;19920423;19980827;SONIe Sonnenenergie-Sensor;Sonnenscheindauer, elektr.;eor;
+596;Boltenhagen;11.19;54;15;9.1;19980830;19981205;SONIe Sonnenenergie-Sensor;Sonnenscheindauer, elektr.;eor;
+596;Boltenhagen;11.19;54;15;9.1;19981209;19981226;SONIe Sonnenenergie-Sensor;Sonnenscheindauer, elektr.;eor;
+596;Boltenhagen;11.19;54;15;9.1;19990113;20071114;SONIe Sonnenenergie-Sensor;Sonnenscheindauer, elektr.;eor;
+596;Boltenhagen;11.19;54;15;6;20071114;20170803;SCAPP;Sonnenscheind/Strahlungsmessung, elektr.;eor;
+596;Boltenhagen;11.19;54;15;6;20170811;20190221;SCAPP;Sonnenscheind/Strahlungsmessung, elektr.;eor;
+generiert: 23.02.2019 --  Deutscher Wetterdienst  --

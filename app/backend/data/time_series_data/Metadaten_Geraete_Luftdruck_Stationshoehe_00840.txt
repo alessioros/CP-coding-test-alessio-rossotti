@@ -1,0 +1,8 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Barometerhoehe ueber NN [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+840;Carlsfeld;12.61;50.43;897;899.3;19950301;20010912;Stationsbarometer;Luftdruckmessung, konv.;eor;
+840;Carlsfeld;12.61;50.43;897;899.3;20010913;20060703;Digitalbarometer AIR-DB;Luftdruckmessung, elektr.;eor;
+840;Carlsfeld;12.61;50.43;897;899.4;20060704;20080731;Digitalbarometer AIR-DB;Luftdruckmessung, elektr.;eor;
+840;Carlsfeld;12.61;50.43;897;897.4;20080801;20170309;Digitalbarometer AIR-DB;Luftdruckmessung, elektr.;eor;
+840;Carlsfeld;12.61;50.43;897;897.4;20170309;20170806;Digitalbarometer PTB 330;Luftdruckmessung, elektr.;eor;
+840;Carlsfeld;12.61;50.43;897;897.9;20170807;20190221;Digitalbarometer PTB 330;Luftdruckmessung, elektr.;eor;
+generiert: 23.02.2019 --  Deutscher Wetterdienst  --

@@ -1,0 +1,17 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Barometerhoehe ueber NN [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+164;Angermünde;14;53.01;45;50.9;19470101;19481031;Stationsbarometer;Luftdruckmessung, konv.;eor;
+164;Angermünde;13.99;53.01;48;51.7;19481101;19500331;Stationsbarometer;Luftdruckmessung, konv.;eor;
+164;Angermünde;13.99;53.01;48;60.4;19500401;19660915;Stationsbarometer;Luftdruckmessung, konv.;eor;
+164;Angermünde;13.99;53.01;48;60.4;19660920;19770911;Stationsbarometer;Luftdruckmessung, konv.;eor;
+164;Angermünde;13.99;53.01;48;60.4;19770913;19790110;Stationsbarometer;Luftdruckmessung, konv.;eor;
+164;Angermünde;13.99;53.03;56;55.4;19790111;20060915;Stationsbarometer;Luftdruckmessung, konv.;eor;
+164;Angermünde;13.99;53.03;56;55.4;19871201;19910123;Absolutdruckwandler (ADMW);Luftdruckmessung, elektr.;eor;
+164;Angermünde;13.99;53.03;56;55.4;19910219;19910708;Absolutdruckwandler (ADMW);Luftdruckmessung, elektr.;eor;
+164;Angermünde;13.99;53.03;56;55.4;19910724;19920827;Absolutdruckwandler (ADMW);Luftdruckmessung, elektr.;eor;
+164;Angermünde;13.99;53.03;56;55.4;19920827;19930123;Digitalbarometer AIR-DB;Luftdruckmessung, elektr.;eor;
+164;Angermünde;13.99;53.03;56;55.4;19930126;20060913;Digitalbarometer AIR-DB;Luftdruckmessung, elektr.;eor;
+164;Angermünde;13.99;53.03;56;55.4;20060915;20130816;Digitalbarometer AIR-DB;Luftdruckmessung, elektr.;eor;
+164;Angermünde;13.99;53.03;56;55.4;20130821;20161101;Digitalbarometer AIR-DB;Luftdruckmessung, elektr.;eor;
+164;Angermünde;13.99;53.03;53.9;55.4;20161102;20161116;Digitalbarometer AIR-DB;Luftdruckmessung, elektr.;eor;
+164;Angermünde;13.99;53.03;53.9;55.4;20161116;20190221;Digitalbarometer PTB 330;Luftdruckmessung, elektr.;eor;
+generiert: 23.02.2019 --  Deutscher Wetterdienst  --

@@ -1,0 +1,23 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+298;Barth;12.72;54.34;4;1;19901129;19930714;NG 200;Niederschlagsdauer, -menge, elektr.;eor;
+298;Barth;12.71;54.34;7;1;19930715;19950508;NG 200;Niederschlagsdauer, -menge, elektr.;eor;
+298;Barth;12.71;54.34;7;1;19950510;19970523;NG 200;Niederschlagsdauer, -menge, elektr.;eor;
+298;Barth;12.71;54.34;7;1;19950510;19970811;Niederschlags-Detektor;Niederschlagsdauer, elektr.;eor;
+298;Barth;12.71;54.34;7;1;19970528;19971129;NG 200;Niederschlagsdauer, -menge, elektr.;eor;
+298;Barth;12.71;54.34;7;1;19970820;19971129;Niederschlags-Detektor;Niederschlagsdauer, elektr.;eor;
+298;Barth;12.71;54.34;7;1;19971201;19971224;NG 200;Niederschlagsdauer, -menge, elektr.;eor;
+298;Barth;12.71;54.34;7;1;19971201;20000215;Niederschlags-Detektor;Niederschlagsdauer, elektr.;eor;
+298;Barth;12.71;54.34;7;1;19971226;19980902;NG 200;Niederschlagsdauer, -menge, elektr.;eor;
+298;Barth;12.71;54.34;7;1;19980907;19980914;NG 200;Niederschlagsdauer, -menge, elektr.;eor;
+298;Barth;12.71;54.34;7;1;19980916;19981124;NG 200;Niederschlagsdauer, -menge, elektr.;eor;
+298;Barth;12.71;54.34;7;1;19981126;19981205;NG 200;Niederschlagsdauer, -menge, elektr.;eor;
+298;Barth;12.71;54.34;7;1;19981216;19990424;NG 200;Niederschlagsdauer, -menge, elektr.;eor;
+298;Barth;12.71;54.34;7;1;19990511;20010626;NG 200;Niederschlagsdauer, -menge, elektr.;eor;
+298;Barth;12.71;54.34;7;1;20000217;20000520;Niederschlags-Detektor;Niederschlagsdauer, elektr.;eor;
+298;Barth;12.71;54.34;7;1;20000525;20010626;Niederschlags-Detektor;Niederschlagsdauer, elektr.;eor;
+298;Barth;12.71;54.34;7;1;20010628;20070430;NG 200;Niederschlagsdauer, -menge, elektr.;eor;
+298;Barth;12.71;54.34;7;1;20010628;20070430;Niederschlags-Detektor;Niederschlagsdauer, elektr.;eor;
+298;Barth;12.71;54.34;3;1;20070501;20070511;NG 200;Niederschlagsdauer, -menge, elektr.;eor;
+298;Barth;12.71;54.34;3;1;20070501;20170503;Niederschlags-Detektor;Niederschlagsdauer, elektr.;eor;
+298;Barth;12.71;54.34;3;1;20170504;20190221;Niederschlagswächter;Niederschlagsdauer, elektr.;eor;
+generiert: 23.02.2019 --  Deutscher Wetterdienst  --

@@ -1,0 +1,5 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+222;Aue;12.71;50.59;391;2;19770101;20080630;Psychrometerthermometer (trocken);Temperaturmessung, konv.;eor;
+222;Aue;12.71;50.59;391;2;20080701;20080701;PT 100 (Luft);Temperaturmessung, elektr.;eor;
+222;Aue;12.71;50.59;387;2;20080702;20190221;PT 100 (Luft);Temperaturmessung, elektr.;eor;
+generiert: 23.02.2019 --  Deutscher Wetterdienst  --

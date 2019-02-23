@@ -1,0 +1,7 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+840;Carlsfeld;12.61;50.43;897;9;19950301;20010912;SONIe Sonnenenergie-Sensor;Sonnenscheindauer, elektr.;eor;
+840;Carlsfeld;12.61;50.43;897;2;20010913;20030505;SONIe Sonnenenergie-Sensor;Sonnenscheindauer, elektr.;eor;
+840;Carlsfeld;12.61;50.43;897;13;20030506;20080731;SONIe Sonnenenergie-Sensor;Sonnenscheindauer, elektr.;eor;
+840;Carlsfeld;12.61;50.43;897;13;20080801;20140606;SONIe Sonnenenergie-Sensor;Sonnenscheindauer, elektr.;eor;
+840;Carlsfeld;12.61;50.43;897;13;20140610;20190221;SONIe Sonnenenergie-Sensor;Sonnenscheindauer, elektr.;eor;
+generiert: 23.02.2019 --  Deutscher Wetterdienst  --

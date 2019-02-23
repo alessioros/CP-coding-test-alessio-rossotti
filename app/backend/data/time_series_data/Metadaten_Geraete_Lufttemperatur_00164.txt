@@ -1,0 +1,6 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+164;Angermünde;13.99;53.03;56;2;19871201;19930715;PT 100 (Luft);Temperaturmessung, elektr.;eor;
+164;Angermünde;13.99;53.03;56;2;19930722;20060913;PT 100 (Luft);Temperaturmessung, elektr.;eor;
+164;Angermünde;13.99;53.03;56;2;20060915;20161101;PT 100 (Luft);Temperaturmessung, elektr.;eor;
+164;Angermünde;13.99;53.03;53.9;2;20161102;20190221;PT 100 (Luft);Temperaturmessung, elektr.;eor;
+generiert: 23.02.2019 --  Deutscher Wetterdienst  --

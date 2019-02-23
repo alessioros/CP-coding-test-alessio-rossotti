@@ -1,0 +1,5 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+303;Baruth;13.5;52.06;54.6;.05;19980101;19981004;PT 100 (Luft);Temperaturmessung, elektr.;eor;
+303;Baruth;13.5;52.06;54.6;.05;19981006;20060531;PT 100 (Luft);Temperaturmessung, elektr.;eor;
+303;Baruth;13.5;52.06;54.6;.05;20060601;20190221;PT 100 (Luft);Temperaturmessung, elektr.;eor;
+generiert: 23.02.2019 --  Deutscher Wetterdienst  --

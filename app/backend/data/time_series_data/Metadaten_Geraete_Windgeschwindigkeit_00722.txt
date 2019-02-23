@@ -1,0 +1,28 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+722;Brocken;10.62;51.8;1142;27;19560101;19570906;Universal-Windmesser 82;Windmessung, mechanisch;eor;
+722;Brocken;10.62;51.8;1142;27;19571121;19640903;Universal-Windmesser 82;Windmessung, mechanisch;eor;
+722;Brocken;10.62;51.8;1142;27;19640924;19650205;Universal-Windmesser 82;Windmessung, mechanisch;eor;
+722;Brocken;10.62;51.8;1142;27;19650706;19650826;Universal-Windmesser 82;Windmessung, mechanisch;eor;
+722;Brocken;10.62;51.8;1142;27;19650826;19651112;Windmessanlage Junkalor;Windmessung, elektromechanisch;eor;
+722;Brocken;10.62;51.8;1142;27;19651112;19670101;Universal-Windmesser 82;Windmessung, mechanisch;eor;
+722;Brocken;10.62;51.8;1142;28;19670101;19690528;Universal-Windmesser 82;Windmessung, mechanisch;eor;
+722;Brocken;10.62;51.8;1142;28;19690528;19690901;Windmessanlage Junkalor;Windmessung, elektromechanisch;eor;
+722;Brocken;10.62;51.8;1142;28;19690905;19691013;Universal-Windmesser 82;Windmessung, mechanisch;eor;
+722;Brocken;10.62;51.8;1142;28;19691020;19720525;Universal-Windmesser 82;Windmessung, mechanisch;eor;
+722;Brocken;10.62;51.8;1142;28;19720525;19720704;Windmessanlage Junkalor;Windmessung, elektromechanisch;eor;
+722;Brocken;10.62;51.8;1142;28;19720704;19780731;Universal-Windmesser 82;Windmessung, mechanisch;eor;
+722;Brocken;10.62;51.8;1142;28;19780731;19781003;Windmessanlage Junkalor;Windmessung, elektromechanisch;eor;
+722;Brocken;10.62;51.8;1142;28;19781003;19781004;Universal-Windmesser 82;Windmessung, mechanisch;eor;
+722;Brocken;10.62;51.8;1142;28;19781009;19830509;Universal-Windmesser 82;Windmessung, mechanisch;eor;
+722;Brocken;10.62;51.8;1142;28;19830621;19850710;Universal-Windmesser 82;Windmessung, mechanisch;eor;
+722;Brocken;10.62;51.8;1142;28;19850710;19850923;WMG 201;Windmessung, elektr.;eor;
+722;Brocken;10.62;51.8;1142;28;19850923;19890620;Universal-Windmesser 82;Windmessung, mechanisch;eor;
+722;Brocken;10.62;51.8;1142;22;19890620;19890823;WMG 201;Windmessung, elektr.;eor;
+722;Brocken;10.62;51.8;1142;27;19890823;19911024;Universal-Windmesser 82;Windmessung, mechanisch;eor;
+722;Brocken;10.62;51.8;1133.9;27;20040101;20070807;Windsensor Classic 4.3303;Windmessung, elektr.;eor;
+722;Brocken;10.62;51.8;1133.9;27;20070807;20080617;Ultrasonic Anemometer 2D;Windmessung, elektr.;eor;
+722;Brocken;10.62;51.8;1133.9;27;20080617;20120418;Windsensor Classic 4.3303;Windmessung, elektr.;eor;
+722;Brocken;10.62;51.8;1133.9;27;20120418;20190205;Windgeber SK-565;Windmessung, elektr.;eor;
+722;Brocken;10.62;51.8;1133.9;27;20130625;20140411;Ultrasonic Anemometer 3D;Windmessung, elektr.;eor;
+722;Brocken;10.62;51.8;1133.9;27;20140429;20190221;Ultrasonic Anemometer 3D;Windmessung, elektr.;eor;
+generiert: 23.02.2019 --  Deutscher Wetterdienst  --

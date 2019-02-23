@@ -1,0 +1,4 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+766;Büchel (Flugplatz);7.07;50.17;477;10;19650101;20080114;Windmessanlage (ARGEM);Windmessung, elektr.;eor;
+766;Büchel (Flugplatz);7.06;50.17;477;10;20080115;20190221;Windmessanlage (ARGEM);Windmessung, elektr.;eor;
+generiert: 23.02.2019 --  Deutscher Wetterdienst  --

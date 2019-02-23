@@ -1,0 +1,5 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+656;Braunlage;10.6;51.72;607;.05;19340905;20010529;Minimumthermometer;Temperaturmessung, konv.;eor;
+656;Braunlage;10.6;51.72;607;.05;19910814;20180423;PT 100 (Luft);Temperaturmessung, elektr.;eor;
+656;Braunlage;10.6;51.72;607.3;.05;20180424;20190221;PT 100 (Luft);Temperaturmessung, elektr.;eor;
+generiert: 23.02.2019 --  Deutscher Wetterdienst  --

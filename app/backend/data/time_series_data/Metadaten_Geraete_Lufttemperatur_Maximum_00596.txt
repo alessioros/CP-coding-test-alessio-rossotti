@@ -1,0 +1,7 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+596;Boltenhagen;11.2;54;2;2;19470101;19480616;Maximumthermometer;Temperaturmessung, konv.;eor;
+596;Boltenhagen;11.23;53.98;2;2;19480617;19670630;Maximumthermometer;Temperaturmessung, konv.;eor;
+596;Boltenhagen;11.19;54;15;2;19670701;19991231;Maximumthermometer;Temperaturmessung, konv.;eor;
+596;Boltenhagen;11.19;54;15;2;19770101;19981205;PT 100 (Luft);Temperaturmessung, elektr.;eor;
+596;Boltenhagen;11.19;54;15;2;19981209;20190221;PT 100 (Luft);Temperaturmessung, elektr.;eor;
+generiert: 23.02.2019 --  Deutscher Wetterdienst  --

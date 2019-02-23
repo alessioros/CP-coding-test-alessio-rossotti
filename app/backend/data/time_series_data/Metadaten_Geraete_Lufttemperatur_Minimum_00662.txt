@@ -1,0 +1,6 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+662;Braunschweig;10.45;52.29;81.2;2.2;19610101;19720531;Minimumthermometer;Temperaturmessung, konv.;eor;
+662;Braunschweig;10.45;52.29;81.2;2.2;19720601;20060531;Minimumthermometer;Temperaturmessung, konv.;eor;
+662;Braunschweig;10.45;52.29;81.2;2;19971023;20180425;PT 100 (Luft);Temperaturmessung, elektr.;eor;
+662;Braunschweig;10.45;52.29;81.44;2;20180426;20190221;PT 100 (Luft);Temperaturmessung, elektr.;eor;
+generiert: 23.02.2019 --  Deutscher Wetterdienst  --

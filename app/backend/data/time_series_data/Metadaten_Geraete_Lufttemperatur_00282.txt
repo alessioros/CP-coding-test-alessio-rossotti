@@ -1,0 +1,4 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+282;Bamberg;10.91;49.88;239;2;19950324;20081125;PT 100 (Luft);Temperaturmessung, elektr.;eor;
+282;Bamberg;10.92;49.87;240;2;20081126;20190221;PT 100 (Luft);Temperaturmessung, elektr.;eor;
+generiert: 23.02.2019 --  Deutscher Wetterdienst  --

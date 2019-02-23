@@ -1,0 +1,10 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+232;Augsburg-Kriegshaber;10.85;48.38;477;2;19470101;19790531;Minimumthermometer;Temperaturmessung, konv.;eor;
+232;Augsburg;10.93;48.43;461;2.2;19790601;19980318;Minimumthermometer;Temperaturmessung, konv.;eor;
+232;Augsburg;10.93;48.43;461;2;19961109;19980318;PT 100 (Luft);Temperaturmessung, elektr.;eor;
+232;Augsburg;10.94;48.43;462;2;19980319;20061214;PT 100 (Luft);Temperaturmessung, elektr.;eor;
+232;Augsburg;10.94;48.43;462;2.2;19980319;20061214;Minimumthermometer;Temperaturmessung, konv.;eor;
+232;Augsburg;10.94;48.43;461.4;2;20061215;20100309;PT 100 (Luft);Temperaturmessung, elektr.;eor;
+232;Augsburg;10.94;48.43;461.4;2.2;20061215;20080417;Minimumthermometer;Temperaturmessung, konv.;eor;
+232;Augsburg;10.94;48.43;461.4;2;20100310;20190221;PT 100 (Luft);Temperaturmessung, elektr.;eor;
+generiert: 23.02.2019 --  Deutscher Wetterdienst  --

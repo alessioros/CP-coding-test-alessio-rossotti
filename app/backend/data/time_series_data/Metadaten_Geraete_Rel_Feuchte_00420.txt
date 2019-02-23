@@ -1,0 +1,5 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+420;Berlin-Marzahn;13.53;52.52;49;2;19930501;20031231;Thermohygrograph;Temperatur- und Feuchtereg., konv.;eor;
+420;Berlin-Marzahn;13.56;52.54;60;2;20070801;20150922;Feuchtesonde HMP45D;Feuchtemessung, elektr.;eor;
+420;Berlin-Marzahn;13.56;52.54;60;2;20150923;20190221;EE33;Feuchtemessung, elektr.;eor;
+generiert: 23.02.2019 --  Deutscher Wetterdienst  --

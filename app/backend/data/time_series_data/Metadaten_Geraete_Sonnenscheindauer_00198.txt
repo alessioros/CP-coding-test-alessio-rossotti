@@ -1,0 +1,10 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+198;Artern;11.3;51.37;154;1;19580401;19580630;Sonnenscheinschreiber nach Campbell-Stokes;Sonnenscheinregistrierung, konv.;eor;
+198;Artern;11.29;51.37;164;1;19580701;19601031;Sonnenscheinschreiber nach Campbell-Stokes;Sonnenscheinregistrierung, konv.;eor;
+198;Artern;11.29;51.37;164;1;19601101;19610424;Sonnenscheinschreiber nach Campbell-Stokes;Sonnenscheinregistrierung, konv.;eor;
+198;Artern;11.29;51.37;164;1.8;19610424;19620901;Sonnenscheinschreiber nach Campbell-Stokes;Sonnenscheinregistrierung, konv.;eor;
+198;Artern;11.29;51.37;164;2;19620901;19770531;Sonnenscheinschreiber nach Campbell-Stokes;Sonnenscheinregistrierung, konv.;eor;
+198;Artern;11.29;51.37;164;3;19770601;19920416;Sonnenscheinschreiber nach Campbell-Stokes;Sonnenscheinregistrierung, konv.;eor;
+198;Artern;11.29;51.37;164;4.2;19920416;20070426;SONIe Sonnenenergie-Sensor;Sonnenscheindauer, elektr.;eor;
+198;Artern;11.29;51.37;164;4.2;20070426;20190221;SCAPP;Sonnenscheind/Strahlungsmessung, elektr.;eor;
+generiert: 23.02.2019 --  Deutscher Wetterdienst  --

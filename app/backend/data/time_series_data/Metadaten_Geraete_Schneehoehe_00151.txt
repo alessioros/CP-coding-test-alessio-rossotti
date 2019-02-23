@@ -1,0 +1,4 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+151;Amberg-Unterammersricht;;;;;19470101;19970831;Gerätetyp unbekannt;Schneehöhenmessung, manuell;eor;
+151;Amberg-Unterammersricht;11.85;49.47;383;;19970901;20190221;Schneepegel;Schneehöhenmessung, manuell;eor;
+generiert: 23.02.2019 --  Deutscher Wetterdienst  --

@@ -1,0 +1,7 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+390;Berleburg, Bad-Stünzel;8.37;50.98;610;2;19861201;19980228;Hygrograph nach Frankenberg;Feuchteregistrieung, konv.;eor;
+390;Berleburg, Bad-Stünzel;8.37;50.98;610;2;19980201;20040630;Thermohygrograph;Temperatur- und Feuchtereg., konv.;eor;
+390;Berleburg, Bad-Stünzel;8.37;50.98;610;2;20030213;20040202;Feuchtesonde HMP45D;Feuchtemessung, elektr.;eor;
+390;Berleburg, Bad-Stünzel;8.37;50.98;610;2;20040701;20161220;Feuchtesonde HMP45D;Feuchtemessung, elektr.;eor;
+390;Berleburg, Bad-Stünzel;8.37;50.98;610;2;20161221;20190221;EE33;Feuchtemessung, elektr.;eor;
+generiert: 23.02.2019 --  Deutscher Wetterdienst  --

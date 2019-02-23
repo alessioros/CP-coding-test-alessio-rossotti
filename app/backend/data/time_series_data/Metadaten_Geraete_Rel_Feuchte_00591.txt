@@ -1,0 +1,26 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+591;Boizenburg;;;;;19470101;19500108;Gerätetyp unbekannt;Feuchteregistrieung, konv.;eor;
+591;Boizenburg;10.69;53.39;45;2;19500109;19500403;Hygrograph nach Frankenberg;Feuchteregistrieung, konv.;eor;
+591;Boizenburg;10.69;53.39;45;2;19500612;19510409;Hygrograph nach Frankenberg;Feuchteregistrieung, konv.;eor;
+591;Boizenburg;10.69;53.39;45;2;19530202;19560201;Hygrograph nach Frankenberg;Feuchteregistrieung, konv.;eor;
+591;Boizenburg;10.69;53.39;45;2;19560229;19831123;Hygrograph nach Frankenberg;Feuchteregistrieung, konv.;eor;
+591;Boizenburg;10.69;53.39;45;2;19760101;19840527;Lithium_Chlorid-Taupunktfühler;Feuchtemessung, elektr.;eor;
+591;Boizenburg;10.69;53.39;45;2;19800601;19840527;Elektrisches Aspirationspsychrometer-1 (EAP-1);Feuchtemessung, elektr.;eor;
+591;Boizenburg;10.69;53.39;45;2;19831129;20070830;Hygrograph nach Frankenberg;Feuchteregistrieung, konv.;eor;
+591;Boizenburg;10.69;53.39;45;2;19840614;19900125;Lithium_Chlorid-Taupunktfühler;Feuchtemessung, elektr.;eor;
+591;Boizenburg;10.69;53.39;45;2;19840614;19890414;Elektrisches Aspirationspsychrometer-1 (EAP-1);Feuchtemessung, elektr.;eor;
+591;Boizenburg;10.69;53.39;45;2;19890414;19900125;Elektrisches Aspirationspsychrometer-2 (EAP-2);Feuchtemessung, elektr.;eor;
+591;Boizenburg;10.69;53.39;45;2;19900128;19911101;Elektrisches Aspirationspsychrometer-2 (EAP-2);Feuchtemessung, elektr.;eor;
+591;Boizenburg;10.69;53.39;45;2;19900128;19920917;Lithium_Chlorid-Taupunktfühler;Feuchtemessung, elektr.;eor;
+591;Boizenburg;10.69;53.39;45;2;19920917;19921126;HYGROMER MP300;Feuchtemessung, elektr.;eor;
+591;Boizenburg;10.69;53.39;45;2;19921130;19940219;HYGROMER MP300;Feuchtemessung, elektr.;eor;
+591;Boizenburg;10.69;53.39;45;2;19940221;19940805;HYGROMER MP300;Feuchtemessung, elektr.;eor;
+591;Boizenburg;10.69;53.39;45;2;19940808;19950318;HYGROMER MP300;Feuchtemessung, elektr.;eor;
+591;Boizenburg;10.69;53.39;45;2;19950320;19961022;HYGROMER MP300;Feuchtemessung, elektr.;eor;
+591;Boizenburg;10.69;53.39;45;2;19961024;20000210;HYGROMER MP300;Feuchtemessung, elektr.;eor;
+591;Boizenburg;10.69;53.39;45;2;20000214;20010308;HYGROMER MP300;Feuchtemessung, elektr.;eor;
+591;Boizenburg;10.69;53.39;45;2;20010312;20070830;HYGROMER MP300;Feuchtemessung, elektr.;eor;
+591;Boizenburg;10.69;53.39;45;2;20070830;20121217;Feuchtesonde HMP45D;Feuchtemessung, elektr.;eor;
+591;Boizenburg;10.69;53.39;45;2;20121221;20140515;Feuchtesonde HMP45D;Feuchtemessung, elektr.;eor;
+591;Boizenburg;10.69;53.39;45;2;20140515;20190221;EE33;Feuchtemessung, elektr.;eor;
+generiert: 23.02.2019 --  Deutscher Wetterdienst  --

@@ -1,0 +1,8 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+817;Frankenberg/Eder;8.81;51.06;320;2;19521001;19690513;Psychrometerthermometer (trocken);Temperaturmessung, konv.;eor;
+817;Frankenberg/Eder;8.8;51.06;280;2;19690514;19720531;Psychrometerthermometer (trocken);Temperaturmessung, konv.;eor;
+817;Frankenberg/Eder;8.8;51.06;276;2;19720601;19830831;Psychrometerthermometer (trocken);Temperaturmessung, konv.;eor;
+817;Frankenberg/Eder;8.82;51.05;290;2;19830901;19960630;Psychrometerthermometer (trocken);Temperaturmessung, konv.;eor;
+817;Burgwald-Bottendorf;8.81;51.03;293;2;19960901;20050131;Psychrometerthermometer (trocken);Temperaturmessung, konv.;eor;
+817;Burgwald-Bottendorf;8.81;51.03;293;2;20050201;20190221;PT 100 (Luft);Temperaturmessung, elektr.;eor;
+generiert: 23.02.2019 --  Deutscher Wetterdienst  --

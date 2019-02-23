@@ -1,0 +1,4 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Barometerhoehe ueber NN [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+161;Andernach;7.42;50.42;75;76.07;20110901;20150412;Digitalbarometer AIR-DB;Luftdruckmessung, elektr.;eor;
+161;Andernach;7.42;50.42;75;76.07;20150413;20190221;Digitalbarometer PTB 330;Luftdruckmessung, elektr.;eor;
+generiert: 23.02.2019 --  Deutscher Wetterdienst  --

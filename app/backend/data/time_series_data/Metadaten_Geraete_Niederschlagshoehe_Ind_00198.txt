@@ -1,0 +1,5 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+198;Artern;11.29;51.37;164;1;19900621;20060906;NG 200;Niederschlagsdauer, -menge, elektr.;eor;
+198;Artern;11.29;51.37;164;1;19950508;20091218;Niederschlags-Detektor;Niederschlagsdauer, elektr.;eor;
+198;Artern;11.29;51.37;164;1;20091222;20190221;Niederschlagswächter;Niederschlagsdauer, elektr.;eor;
+generiert: 23.02.2019 --  Deutscher Wetterdienst  --

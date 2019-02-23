@@ -1,0 +1,16 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+164;Angermünde;14;53.01;45;2;19470101;19481031;Hygrograph nach Frankenberg;Feuchteregistrieung, konv.;eor;
+164;Angermünde;13.99;53.01;48;2;19481101;19790110;Hygrograph nach Frankenberg;Feuchteregistrieung, konv.;eor;
+164;Angermünde;13.99;53.03;56;2;19790111;19870110;Hygrograph nach Frankenberg;Feuchteregistrieung, konv.;eor;
+164;Angermünde;13.99;53.03;56;2;19870115;19870116;Hygrograph nach Frankenberg;Feuchteregistrieung, konv.;eor;
+164;Angermünde;13.99;53.03;56;2;19870118;19910407;Hygrograph nach Frankenberg;Feuchteregistrieung, konv.;eor;
+164;Angermünde;13.99;53.03;56;2;19871201;19891226;Elektrisches Aspirationspsychrometer-2 (EAP-2);Feuchtemessung, elektr.;eor;
+164;Angermünde;13.99;53.03;56;2;19871201;19920827;Lithium_Chlorid-Taupunktfühler;Feuchtemessung, elektr.;eor;
+164;Angermünde;13.99;53.03;56;2;19900103;19920414;Elektrisches Aspirationspsychrometer-2 (EAP-2);Feuchtemessung, elektr.;eor;
+164;Angermünde;13.99;53.03;56;2;19910704;19991231;Hygrograph nach Frankenberg;Feuchteregistrieung, konv.;eor;
+164;Angermünde;13.99;53.03;56;2;19920827;19931224;HYGROMER MP300;Feuchtemessung, elektr.;eor;
+164;Angermünde;13.99;53.03;56;2;19931229;20060913;HYGROMER MP300;Feuchtemessung, elektr.;eor;
+164;Angermünde;13.99;53.03;56;2;20060915;20141204;Feuchtesonde HMP45D;Feuchtemessung, elektr.;eor;
+164;Angermünde;13.99;53.03;56;2;20141204;20161101;EE33;Feuchtemessung, elektr.;eor;
+164;Angermünde;13.99;53.03;53.9;2;20161102;20190221;EE33;Feuchtemessung, elektr.;eor;
+generiert: 23.02.2019 --  Deutscher Wetterdienst  --

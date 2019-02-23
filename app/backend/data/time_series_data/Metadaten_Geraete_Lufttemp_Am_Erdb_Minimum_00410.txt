@@ -1,0 +1,4 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+410;Berlin-Kaniswall;13.73;52.4;33;.05;19960601;20040430;Minimumthermometer;Temperaturmessung, konv.;eor;
+410;Berlin-Kaniswall;13.73;52.4;33;.05;20040501;20190221;PT 100 (Luft);Temperaturmessung, elektr.;eor;
+generiert: 23.02.2019 --  Deutscher Wetterdienst  --

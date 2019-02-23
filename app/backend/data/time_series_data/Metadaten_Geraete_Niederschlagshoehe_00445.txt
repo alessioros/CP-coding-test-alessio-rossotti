@@ -1,0 +1,8 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+445;Bernburg/Saale (Nord);;;;;18980101;19510415;Gerätetyp unbekannt;Niederschlagsmenge, konv.;eor;
+445;Bernburg/Saale (Nord);11.71;51.83;85;1;19510416;19591130;Hellmann;Niederschlagsmenge, konv.;eor;
+445;Bernburg/Saale (Nord);11.71;51.82;93;1;19591201;19710331;Hellmann;Niederschlagsmenge, konv.;eor;
+445;Bernburg/Saale (Nord);11.7;51.82;81;1.2;19711001;19941130;Hellmann;Niederschlagsmenge, konv.;eor;
+445;Bernburg/Saale (Nord);11.71;51.82;84;1;20050701;20161105;PLUVIO;Niederschlagsmenge, elektr.;eor;
+445;Bernburg/Saale (Nord);11.71;51.82;84;1;20161108;20190221;PLUVIO;Niederschlagsmenge, elektr.;eor;
+generiert: 23.02.2019 --  Deutscher Wetterdienst  --

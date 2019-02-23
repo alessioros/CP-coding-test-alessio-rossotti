@@ -1,0 +1,6 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Barometerhoehe ueber NN [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+603;Bonn-Roleber;7.19;50.73;159;160.4;20000703;20071030;Digitalbarometer AIR-DB;Luftdruckmessung, elektr.;eor;
+603;Bonn-Roleber;7.19;50.73;159;160.4;20000703;20011203;Stationsbarometer;Luftdruckmessung, konv.;eor;
+603;Bonn-Roleber;7.19;50.73;159;160.4;20071031;20171022;Digitalbarometer PTB 330;Luftdruckmessung, elektr.;eor;
+603;Bonn-Roleber;7.19;50.73;159;160.4;20171023;20190221;Luftdrucksensor Vaisala PTB 220;Luftdruckmessung, elektr.;eor;
+generiert: 23.02.2019 --  Deutscher Wetterdienst  --

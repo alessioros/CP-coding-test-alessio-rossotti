@@ -1,0 +1,6 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+722;Brocken;10.62;51.8;1142;.05;19471001;19970829;Minimumthermometer;Temperaturmessung, konv.;eor;
+722;Brocken;10.62;51.8;1133.9;.05;19970830;20031231;Minimumthermometer;Temperaturmessung, konv.;eor;
+722;Brocken;10.62;51.8;1133.9;.05;20040101;20181029;PT 100 (Luft);Temperaturmessung, elektr.;eor;
+722;Brocken;10.62;51.8;1133.9;.05;20181114;20190114;PT 100 (Luft);Temperaturmessung, elektr.;eor;
+generiert: 23.02.2019 --  Deutscher Wetterdienst  --

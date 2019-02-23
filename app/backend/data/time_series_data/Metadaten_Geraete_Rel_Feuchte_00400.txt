@@ -1,0 +1,5 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+400;Berlin-Buch;13.5;52.63;60;2;20040601;20041031;Feuchtesonde HMP45D;Feuchtemessung, elektr.;eor;
+400;Berlin-Buch;13.5;52.63;60;2;20041101;20150916;Feuchtesonde HMP45D;Feuchtemessung, elektr.;eor;
+400;Berlin-Buch;13.5;52.63;60;2;20150917;20190221;EE33;Feuchtemessung, elektr.;eor;
+generiert: 23.02.2019 --  Deutscher Wetterdienst  --

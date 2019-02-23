@@ -1,0 +1,27 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+183;Arkona;;;;;19470101;19531011;Gerätetyp unbekannt;Feuchteregistrieung, konv.;eor;
+183;Arkona;13.43;54.68;42;2;19480531;19531012;Thermohygrograph;Temperatur- und Feuchtereg., konv.;eor;
+183;Arkona;13.43;54.68;42;2;19531012;19990206;Hygrograph nach Frankenberg;Feuchteregistrieung, konv.;eor;
+183;Arkona;13.43;54.68;42;2;19880601;19900226;Lithium_Chlorid-Taupunktfühler;Feuchtemessung, elektr.;eor;
+183;Arkona;13.43;54.68;42;2;19880601;19911031;Elektrisches Aspirationspsychrometer-2 (EAP-2);Feuchtemessung, elektr.;eor;
+183;Arkona;13.43;54.68;42;2;19900228;19901101;Lithium_Chlorid-Taupunktfühler;Feuchtemessung, elektr.;eor;
+183;Arkona;13.43;54.68;42;2;19901108;19930203;Lithium_Chlorid-Taupunktfühler;Feuchtemessung, elektr.;eor;
+183;Arkona;13.43;54.68;42;2;19930225;19930705;Lithium_Chlorid-Taupunktfühler;Feuchtemessung, elektr.;eor;
+183;Arkona;13.43;54.68;42;2;19930707;19930911;Lithium_Chlorid-Taupunktfühler;Feuchtemessung, elektr.;eor;
+183;Arkona;13.43;54.68;42;2;19930915;19931222;Lithium_Chlorid-Taupunktfühler;Feuchtemessung, elektr.;eor;
+183;Arkona;13.43;54.68;42;2;19931222;19950123;HYGROMER MP300;Feuchtemessung, elektr.;eor;
+183;Arkona;13.43;54.68;42;2;19950125;19950805;HYGROMER MP300;Feuchtemessung, elektr.;eor;
+183;Arkona;13.43;54.68;42;2;19950807;19970128;HYGROMER MP300;Feuchtemessung, elektr.;eor;
+183;Arkona;13.43;54.68;42;2;19970131;19970414;HYGROMER MP300;Feuchtemessung, elektr.;eor;
+183;Arkona;13.43;54.68;42;2;19970423;19980316;HYGROMER MP300;Feuchtemessung, elektr.;eor;
+183;Arkona;13.43;54.68;42;2;19980318;20000826;HYGROMER MP300;Feuchtemessung, elektr.;eor;
+183;Arkona;13.43;54.68;42;2;19990206;20000103;Thermohygrograph;Temperatur- und Feuchtereg., konv.;eor;
+183;Arkona;13.43;54.68;42;2;20000829;20000908;HYGROMER MP300;Feuchtemessung, elektr.;eor;
+183;Arkona;13.43;54.68;42;2;20000914;20041005;HYGROMER MP300;Feuchtemessung, elektr.;eor;
+183;Arkona;13.43;54.68;42;2;20041005;20041202;Feuchtesonde HMP45D;Feuchtemessung, elektr.;eor;
+183;Arkona;13.43;54.68;42;2;20041204;20041211;Feuchtesonde HMP45D;Feuchtemessung, elektr.;eor;
+183;Arkona;13.43;54.68;42;2;20041213;20060808;Feuchtesonde HMP45D;Feuchtemessung, elektr.;eor;
+183;Arkona;13.43;54.68;42;2;20060811;20061215;Feuchtesonde HMP45D;Feuchtemessung, elektr.;eor;
+183;Arkona;13.43;54.68;42;2;20070110;20140701;Feuchtesonde HMP45D;Feuchtemessung, elektr.;eor;
+183;Arkona;13.43;54.68;42;2;20140701;20190221;EE33;Feuchtemessung, elektr.;eor;
+generiert: 23.02.2019 --  Deutscher Wetterdienst  --

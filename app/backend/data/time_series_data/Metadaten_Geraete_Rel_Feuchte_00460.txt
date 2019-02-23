@@ -1,0 +1,7 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+460;Berus;6.69;49.26;363;2;19510101;20000831;Hygrograph nach Frankenberg;Feuchteregistrieung, konv.;eor;
+460;Berus;6.69;49.26;363;2;19770401;20060629;Thermohygrograph;Temperatur- und Feuchtereg., konv.;eor;
+460;Berus;6.69;49.26;363;2;19930930;20060629;HYGROMER MP100;Feuchtemessung, elektr.;eor;
+460;Berus;6.69;49.26;363;2;20060630;20150329;Feuchtesonde HMP45D;Feuchtemessung, elektr.;eor;
+460;Berus;6.69;49.26;363;2;20150330;20190221;EE33;Feuchtemessung, elektr.;eor;
+generiert: 23.02.2019 --  Deutscher Wetterdienst  --

@@ -1,0 +1,10 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+722;Brocken;10.62;51.8;1140;12;18960101;19131011;Maximumthermometer;Temperaturmessung, konv.;eor;
+722;Brocken;10.62;51.8;1140;18;19131011;19381231;Maximumthermometer;Temperaturmessung, konv.;eor;
+722;Brocken;10.62;51.8;1140;23.1;19390101;19391231;Maximumthermometer;Temperaturmessung, konv.;eor;
+722;Brocken;10.62;51.8;1142;23.1;19400101;19450419;Maximumthermometer;Temperaturmessung, konv.;eor;
+722;Brocken;10.62;51.8;1142;2;19470428;19481019;Maximumthermometer;Temperaturmessung, konv.;eor;
+722;Brocken;10.62;51.8;1142;23.1;19481020;19891127;Maximumthermometer;Temperaturmessung, konv.;eor;
+722;Brocken;10.62;51.8;1142;21.8;19891127;19970829;PT 100 (Luft);Temperaturmessung, elektr.;eor;
+722;Brocken;10.62;51.8;1133.9;21.8;19970830;20190221;PT 100 (Luft);Temperaturmessung, elektr.;eor;
+generiert: 23.02.2019 --  Deutscher Wetterdienst  --

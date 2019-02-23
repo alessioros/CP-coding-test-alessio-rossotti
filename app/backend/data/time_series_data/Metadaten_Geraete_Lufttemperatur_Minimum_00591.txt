@@ -1,0 +1,13 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+591;Boizenburg;10.69;53.39;45;2;19470101;19770430;Minimumthermometer;Temperaturmessung, konv.;eor;
+591;Boizenburg;10.69;53.39;45;2;19760101;19800601;PT 100 (Luft);Temperaturmessung, elektr.;eor;
+591;Boizenburg;10.69;53.39;45;2;19890414;19900125;PT 100 (Luft);Temperaturmessung, elektr.;eor;
+591;Boizenburg;10.69;53.39;45;2;19900128;19921126;PT 100 (Luft);Temperaturmessung, elektr.;eor;
+591;Boizenburg;10.69;53.39;45;2;19920901;20070830;Minimumthermometer;Temperaturmessung, konv.;eor;
+591;Boizenburg;10.69;53.39;45;2;19921130;19940219;PT 100 (Luft);Temperaturmessung, elektr.;eor;
+591;Boizenburg;10.69;53.39;45;2;19940221;19940805;PT 100 (Luft);Temperaturmessung, elektr.;eor;
+591;Boizenburg;10.69;53.39;45;2;19940808;19961022;PT 100 (Luft);Temperaturmessung, elektr.;eor;
+591;Boizenburg;10.69;53.39;45;2;19961024;20000210;PT 100 (Luft);Temperaturmessung, elektr.;eor;
+591;Boizenburg;10.69;53.39;45;2;20000214;20010308;PT 100 (Luft);Temperaturmessung, elektr.;eor;
+591;Boizenburg;10.69;53.39;45;2;20010312;20190221;PT 100 (Luft);Temperaturmessung, elektr.;eor;
+generiert: 23.02.2019 --  Deutscher Wetterdienst  --

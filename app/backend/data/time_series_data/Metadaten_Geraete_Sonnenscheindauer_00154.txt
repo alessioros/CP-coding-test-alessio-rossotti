@@ -1,0 +1,8 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+154;Amerang-Pfaffing;12.29;48.02;515;1.4;19940701;20050228;Sonnenscheinschreiber nach Campbell-Stokes;Sonnenscheinregistrierung, konv.;eor;
+154;Amerang-Pfaffing;12.29;48.02;515;2;20041104;20050228;SONIe Sonnenenergie-Sensor;Sonnenscheindauer, elektr.;eor;
+154;Amerang-Pfaffing;12.29;48.02;515;2;20050301;20120417;SONIe Sonnenenergie-Sensor;Sonnenscheindauer, elektr.;eor;
+154;Amerang-Pfaffing;12.29;48.02;515;2;20120428;20120502;SONIe Sonnenenergie-Sensor;Sonnenscheindauer, elektr.;eor;
+154;Amerang-Pfaffing;12.29;48.02;515;2;20120511;20150402;SONIe Sonnenenergie-Sensor;Sonnenscheindauer, elektr.;eor;
+154;Amerang-Pfaffing;12.29;48.02;515;2;20150408;20190221;SONIe Sonnenenergie-Sensor;Sonnenscheindauer, elektr.;eor;
+generiert: 23.02.2019 --  Deutscher Wetterdienst  --

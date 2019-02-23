@@ -1,0 +1,10 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+701;Bremerhaven;8.58;53.53;6.45;2.3;20061113;20070904;Ultraschall-Schneehöhenmesser SR50-G1;Schneehöhenmessung, elektr.;eor;
+701;Bremerhaven;8.58;53.53;6.45;2;20070905;20090501;Ultraschall-Schneehöhenmesser SR50-G1;Schneehöhenmessung, elektr.;eor;
+701;Bremerhaven;8.58;53.53;6.45;2;20091001;20100504;Ultraschall-Schneehöhenmesser SR50-G1;Schneehöhenmessung, elektr.;eor;
+701;Bremerhaven;8.58;53.53;6.45;2;20101101;20110430;Ultraschall-Schneehöhenmesser SR50-G1;Schneehöhenmessung, elektr.;eor;
+701;Bremerhaven;8.58;53.53;6.45;2;20111001;20120501;Ultraschall-Schneehöhenmesser SR50-G1;Schneehöhenmessung, elektr.;eor;
+701;Bremerhaven;8.58;53.53;6.45;2;20121001;20130430;Ultraschall-Schneehöhenmesser SR50-G1;Schneehöhenmessung, elektr.;eor;
+701;Bremerhaven;8.58;53.53;6.45;2;20131001;20150204;Schneehöhensensor SHM 30;Schneehöhenmessung, elektr.;eor;
+701;Bremerhaven;8.58;53.53;6.45;2;20150205;20190221;Schneehöhensensor SHM 30;Schneehöhenmessung, elektr.;eor;
+generiert: 23.02.2019 --  Deutscher Wetterdienst  --

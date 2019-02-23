@@ -1,0 +1,9 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+701;Bremerhaven (Signalturm);8.55;53.57;6;25;19530101;19620415;Universal-Windmesser 82;Windmessung, mechanisch;eor;
+701;Bremerhaven;8.58;53.53;6;12;19620416;19971118;Universal-Windschreiber 90;Windmessung, elektromechanisch;eor;
+701;Bremerhaven;8.58;53.53;6;10;19971119;19980609;Windsensor Classic 4.3303;Windmessung, elektr.;eor;
+701;Bremerhaven;8.58;53.53;6.45;11.6;19980610;20150204;Windsensor Classic 4.3303;Windmessung, elektr.;eor;
+701;Bremerhaven;8.58;53.53;6.45;11.6;20150205;20150908;Windsensor Classic 4.3303;Windmessung, elektr.;eor;
+701;Bremerhaven;8.58;53.53;6.45;10;20150909;20171213;Windsensor Classic 4.3303;Windmessung, elektr.;eor;
+701;Bremerhaven;8.58;53.53;6.45;11.6;20171214;20190221;Windsensor Classic 4.3303;Windmessung, elektr.;eor;
+generiert: 23.02.2019 --  Deutscher Wetterdienst  --

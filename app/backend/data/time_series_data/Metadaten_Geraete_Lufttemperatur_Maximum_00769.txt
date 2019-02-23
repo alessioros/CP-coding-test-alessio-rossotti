@@ -1,0 +1,4 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+769;Bückeburg;9.09;52.28;68;2.2;19790101;20070613;Maximumthermometer;Temperaturmessung, konv.;eor;
+769;Bückeburg;9.09;52.28;68;2.2;20070614;20190221;Maximumthermometer;Temperaturmessung, konv.;eor;
+generiert: 23.02.2019 --  Deutscher Wetterdienst  --

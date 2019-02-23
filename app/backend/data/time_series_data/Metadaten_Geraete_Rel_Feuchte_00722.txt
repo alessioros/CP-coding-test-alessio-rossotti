@@ -1,0 +1,8 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+722;Brocken;10.62;51.8;1142;21.8;19470901;19891127;Thermohygrograph;Temperatur- und Feuchtereg., konv.;eor;
+722;Brocken;10.62;51.8;1142;21.8;19891127;19970829;HYGROMER MP100;Feuchtemessung, elektr.;eor;
+722;Brocken;10.62;51.8;1133.9;21.8;19970830;20070725;HYGROMER MP100;Feuchtemessung, elektr.;eor;
+722;Brocken;10.62;51.8;1133.9;21.8;20070725;20080129;Feuchtesonde HMP45D;Feuchtemessung, elektr.;eor;
+722;Brocken;10.62;51.8;1133.9;21.8;20080129;20151022;HYGROMER MP100;Feuchtemessung, elektr.;eor;
+722;Brocken;10.62;51.8;1133.9;21.8;20151022;20190221;EE33;Feuchtemessung, elektr.;eor;
+generiert: 23.02.2019 --  Deutscher Wetterdienst  --

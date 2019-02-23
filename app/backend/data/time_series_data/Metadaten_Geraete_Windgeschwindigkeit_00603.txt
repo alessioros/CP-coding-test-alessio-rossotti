@@ -1,0 +1,7 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+603;Bonn-Roleber;7.19;50.74;159;10;19900101;19990301;Windsensor Classic 4.3303;Windmessung, elektr.;eor;
+603;Bonn-Roleber;7.19;50.73;159;10;19990302;20000809;Windsensor Classic 4.3303;Windmessung, elektr.;eor;
+603;Bonn-Roleber;7.19;50.73;159;12;20000810;20070412;Windsensor Classic 4.3303;Windmessung, elektr.;eor;
+603;Bonn-Roleber;7.19;50.73;159;10;20070413;20071023;Windsensor Classic 4.3303;Windmessung, elektr.;eor;
+603;Bonn-Roleber;7.19;50.73;159;12;20071024;20190221;Windsensor Classic 4.3303;Windmessung, elektr.;eor;
+generiert: 23.02.2019 --  Deutscher Wetterdienst  --

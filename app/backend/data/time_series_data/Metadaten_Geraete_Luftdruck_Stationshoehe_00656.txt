@@ -1,0 +1,7 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Barometerhoehe ueber NN [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+656;Braunlage;;;;;19341101;19351231;Gerätetyp unbekannt;Luftdruckmessung, konv.;eor;
+656;Braunlage;10.6;51.72;607;609.8;19360101;19840731;Stationsbarometer;Luftdruckmessung, konv.;eor;
+656;Braunlage;10.6;51.72;607;608.5;20010530;20161129;Digitalbarometer AIR-DB;Luftdruckmessung, elektr.;eor;
+656;Braunlage;10.6;51.72;607;608.5;20161130;20180423;Digitalbarometer PTB 330;Luftdruckmessung, elektr.;eor;
+656;Braunlage;10.6;51.72;607.3;608.41;20180424;20190221;Digitalbarometer PTB 330;Luftdruckmessung, elektr.;eor;
+generiert: 23.02.2019 --  Deutscher Wetterdienst  --

@@ -1,0 +1,4 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+314;Kubschütz, Kr. Bautzen;;;;;19450801;19981130;Gerätetyp unbekannt;Schneehöhenmessung, manuell;eor;
+314;Kubschütz, Kr. Bautzen;14.5;51.16;232;;19981201;20190221;Schneepegel;Schneehöhenmessung, manuell;eor;
+generiert: 23.02.2019 --  Deutscher Wetterdienst  --

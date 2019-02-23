@@ -1,0 +1,7 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+198;Artern;11.3;51.37;154;.05;19540117;19580630;Minimumthermometer;Temperaturmessung, konv.;eor;
+198;Artern;11.29;51.37;164;.05;19580701;19601031;Minimumthermometer;Temperaturmessung, konv.;eor;
+198;Artern;11.29;51.37;164;.05;19601101;19830117;Minimumthermometer;Temperaturmessung, konv.;eor;
+198;Artern;11.29;51.37;164;.05;19841114;19900620;Minimumthermometer;Temperaturmessung, konv.;eor;
+198;Artern;11.29;51.37;164;.05;19900621;20190221;PT 100 (Luft);Temperaturmessung, elektr.;eor;
+generiert: 23.02.2019 --  Deutscher Wetterdienst  --

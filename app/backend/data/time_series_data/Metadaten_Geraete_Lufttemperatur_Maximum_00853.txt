@@ -1,0 +1,14 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+853;Chemnitz;;;;;18820101;18831130;Gerätetyp unbekannt;Temperaturmessung, konv.;eor;
+853;Chemnitz;12.89;50.81;357;4.4;18831201;18851231;Maximumthermometer;Temperaturmessung, konv.;eor;
+853;Chemnitz;12.89;50.81;357;2;18861201;19051118;Maximumthermometer;Temperaturmessung, konv.;eor;
+853;Chemnitz;12.89;50.81;357;2;19280401;19341231;Maximumthermometer;Temperaturmessung, konv.;eor;
+853;Chemnitz;12.89;50.81;357;2;19350101;19450228;Maximumthermometer;Temperaturmessung, konv.;eor;
+853;Chemnitz;12.89;50.81;357;2;19460521;19760506;Maximumthermometer;Temperaturmessung, konv.;eor;
+853;Chemnitz;12.87;50.79;418;2.2;19760507;20060426;Maximumthermometer;Temperaturmessung, konv.;eor;
+853;Chemnitz;12.87;50.79;418;2;19810301;19860818;PT 100 (Luft);Temperaturmessung, elektr.;eor;
+853;Chemnitz;12.87;50.79;418;2;19870507;19870524;PT 100 (Luft);Temperaturmessung, elektr.;eor;
+853;Chemnitz;12.87;50.79;418;2;19870729;19870730;PT 100 (Luft);Temperaturmessung, elektr.;eor;
+853;Chemnitz;12.87;50.79;418;2;19871111;19871128;PT 100 (Luft);Temperaturmessung, elektr.;eor;
+853;Chemnitz;12.87;50.79;418;2;19880517;20190221;PT 100 (Luft);Temperaturmessung, elektr.;eor;
+generiert: 23.02.2019 --  Deutscher Wetterdienst  --

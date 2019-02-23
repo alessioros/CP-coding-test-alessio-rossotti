@@ -1,0 +1,19 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+298;Barth;12.72;54.36;4;.05;19470101;19480831;Minimumthermometer;Temperaturmessung, konv.;eor;
+298;Barth;12.75;54.36;20;.05;19480901;19530430;Minimumthermometer;Temperaturmessung, konv.;eor;
+298;Barth;12.72;54.36;4;.05;19530501;19590520;Minimumthermometer;Temperaturmessung, konv.;eor;
+298;Barth;12.69;54.37;2;.05;19590521;19620114;Minimumthermometer;Temperaturmessung, konv.;eor;
+298;Barth;12.72;54.34;4;.05;19641030;19770430;Minimumthermometer;Temperaturmessung, konv.;eor;
+298;Barth;12.72;54.34;4;.05;19901129;19930714;PT 100 (Luft);Temperaturmessung, elektr.;eor;
+298;Barth;12.71;54.34;7;.05;19930715;19930823;PT 100 (Luft);Temperaturmessung, elektr.;eor;
+298;Barth;12.71;54.34;7;.05;19930825;19940428;PT 100 (Luft);Temperaturmessung, elektr.;eor;
+298;Barth;12.71;54.34;7;.05;19940502;19951231;PT 100 (Luft);Temperaturmessung, elektr.;eor;
+298;Barth;12.71;54.34;7;.05;19940801;20070430;Minimumthermometer;Temperaturmessung, konv.;eor;
+298;Barth;12.71;54.34;7;.05;19960103;19971129;PT 100 (Luft);Temperaturmessung, elektr.;eor;
+298;Barth;12.71;54.34;7;.05;19971201;20010626;PT 100 (Luft);Temperaturmessung, elektr.;eor;
+298;Barth;12.71;54.34;7;.05;20010628;20041218;PT 100 (Luft);Temperaturmessung, elektr.;eor;
+298;Barth;12.71;54.34;7;.05;20041228;20060825;PT 100 (Luft);Temperaturmessung, elektr.;eor;
+298;Barth;12.71;54.34;7;.05;20060828;20070430;PT 100 (Luft);Temperaturmessung, elektr.;eor;
+298;Barth;12.71;54.34;3;.05;20070501;20190221;PT 100 (Luft);Temperaturmessung, elektr.;eor;
+298;Barth;12.71;54.34;3;.05;20070501;20070511;Minimumthermometer;Temperaturmessung, konv.;eor;
+generiert: 23.02.2019 --  Deutscher Wetterdienst  --

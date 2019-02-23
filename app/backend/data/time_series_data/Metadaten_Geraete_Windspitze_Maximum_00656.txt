@@ -1,0 +1,9 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+656;Braunlage;10.6;51.72;607;14;19690101;19710228;Universal-Windmesser 82;Windmessung, mechanisch;eor;
+656;Braunlage;10.6;51.72;607;14;19710301;19910731;Universal-Windschreiber 90;Windmessung, elektromechanisch;eor;
+656;Braunlage;10.6;51.72;607;16;19910801;20070528;Windgeber SK-565;Windmessung, elektr.;eor;
+656;Braunlage;10.6;51.72;607;16;20070521;20100629;Windsensor Classic 4.3303;Windmessung, elektr.;eor;
+656;Braunlage;10.6;51.72;607;16;20100629;20130329;Ultrasonic Anemometer 2D;Windmessung, elektr.;eor;
+656;Braunlage;10.6;51.72;607;16;20130404;20180423;Ultrasonic Anemometer 2D;Windmessung, elektr.;eor;
+656;Braunlage;10.6;51.72;607.3;16;20180424;20190221;Ultrasonic Anemometer 2D;Windmessung, elektr.;eor;
+generiert: 23.02.2019 --  Deutscher Wetterdienst  --

@@ -1,0 +1,6 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+150;Alzey;8.13;49.74;173;2;19510101;19630630;Psychrometerthermometer (trocken);Temperaturmessung, konv.;eor;
+150;Alzey;8.12;49.75;166;2;19630712;19870331;Psychrometerthermometer (trocken);Temperaturmessung, konv.;eor;
+150;Alzey;8.12;49.73;215;2;19870601;20050630;Psychrometerthermometer (trocken);Temperaturmessung, konv.;eor;
+150;Alzey;8.12;49.73;215;2;20050701;20190221;PT 100 (Luft);Temperaturmessung, elektr.;eor;
+generiert: 23.02.2019 --  Deutscher Wetterdienst  --

@@ -1,0 +1,33 @@
+SCRAPER_CONF = {
+    'FTP_URL': "ftp-cdc.dwd.de",
+    'FTP_PATH': "pub/CDC/observations_germany/climate/daily/kl/recent",
+    'DOWNLOAD_FOLDER': 'data/zip_files',
+    'EXPORT_FOLDER': 'data/time_series_data',
+    'FILE_NUM_LIMIT': 20,
+    'DOWNLOAD_INTERVAL': 0.05,
+}
+
+DB_TABLE_NAME = 'STATIONS'
+
+DB_TABLE_COLUMNS = ['STATIONS_ID INTEGER', 'STATIONSNAME VARCHAR', 
+'VARIABLE_NAME VARCHAR', 'GEO_LAENGE FLOAT8', 'GEO_BREITE FLOAT8', 
+'STATIONSHOEHE INTEGER', 'GEBERHOEHE FLOAT8', 
+'VON_DATUM INTEGER', 'BIS_DATUM INTEGER', 
+'GERAETETYP_NAME VARCHAR', 'MESSVERFAHREN VARCHAR', 'EOR VARCHAR']
+
+RECORD_HEADERS = ['stationsId', 'stationsName', 
+'variableName', 'geoLaenge', 'geoBreite', 
+'stationShoehe', 'geberhoehe', 
+'vonDatum', 'bisDatum', 
+'geraetetypName', 'messverfahren', 'eor']
+
+COL_TYPES = ['INT', 'STR', 'STR', 'FLOAT', 'FLOAT', 
+'INT', 'FLOAT', 'INT', 'INT', 'STR', 'STR', 'STR']
+
+CREATE_STATIONS = 'CREATE TABLE IF NOT EXISTS {} ({}, PRIMARY KEY (STATIONS_ID, VARIABLE_NAME, VON_DATUM, BIS_DATUM));'.format(DB_TABLE_NAME, ', '.join(DB_TABLE_COLUMNS))
+        
+INSERT_DATA = 'INSERT INTO {} VALUES '.format(DB_TABLE_NAME)
+GET_DATA = "SELECT * FROM " + DB_TABLE_NAME + " WHERE STATIONS_ID = {} AND VARIABLE_NAME = '{}';"
+
+GET_STATIONS_IDS = "SELECT DISTINCT(STATIONS_ID) FROM {}".format(DB_TABLE_NAME)
+GET_VARIABLES = "SELECT DISTINCT(VARIABLE_NAME) FROM {}".format(DB_TABLE_NAME)

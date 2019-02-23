@@ -1,0 +1,6 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+198;Artern;11.3;51.37;154;2;19540116;19580630;Psychrometerthermometer (trocken);Temperaturmessung, konv.;eor;
+198;Artern;11.29;51.37;164;2;19580701;19601031;Psychrometerthermometer (trocken);Temperaturmessung, konv.;eor;
+198;Artern;11.29;51.37;164;2;19601101;19740331;Psychrometerthermometer (trocken);Temperaturmessung, konv.;eor;
+198;Artern;11.29;51.37;164;2;19900621;20190221;PT 100 (Luft);Temperaturmessung, elektr.;eor;
+generiert: 23.02.2019 --  Deutscher Wetterdienst  --

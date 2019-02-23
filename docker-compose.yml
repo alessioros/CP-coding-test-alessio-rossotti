@@ -1,0 +1,43 @@
+version: '3'
+
+services:
+  nginx:
+    container_name: nginx_container
+    restart: always
+    image: nginx
+    build:
+      context: .
+      dockerfile: nginx/Dockerfile
+    volumes:
+     - ./app/frontend/dist:/usr/share/nginx/html
+    ports:
+      - "80:80"
+      - "443:443"
+    depends_on:
+      - flask_backend
+  
+  flask_backend:
+    container_name: flask_backend_container
+    restart: always
+    image: flask
+    build: ./app/backend
+    volumes:
+      - ./app/backend:/usr/src/app/backend
+    depends_on:
+      - database
+    env_file:
+     - .env
+
+  database:
+    container_name: database_container
+    image: postgres
+    ports:
+      - "5432:5432"
+    volumes:
+      - db_data:/var/lib/postgresql/data/
+    environment:
+      POSTGRES_USER: "username"
+      POSTGRES_PASSWORD: "password"
+
+volumes:
+  db_data:

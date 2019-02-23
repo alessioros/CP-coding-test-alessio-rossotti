@@ -1,0 +1,12 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+853;Chemnitz;;;;;18820401;19460520;Gerätetyp unbekannt;Schneehöhenmessung, manuell;eor;
+853;Chemnitz;12.89;50.81;357;;19460521;19760506;Schneepegel;Schneehöhenmessung, manuell;eor;
+853;Chemnitz;12.87;50.79;418;;19760507;20150801;Schneepegel;Schneehöhenmessung, manuell;eor;
+853;Chemnitz;12.87;50.79;418;2.3;20071129;20090430;Ultraschall-Schneehöhenmesser SR50-G1;Schneehöhenmessung, elektr.;eor;
+853;Chemnitz;12.87;50.79;418;2.3;20091001;20100504;Ultraschall-Schneehöhenmesser SR50-G1;Schneehöhenmessung, elektr.;eor;
+853;Chemnitz;12.87;50.79;418;2.3;20101001;20110430;Ultraschall-Schneehöhenmesser SR50-G1;Schneehöhenmessung, elektr.;eor;
+853;Chemnitz;12.87;50.79;418;2.3;20111001;20120501;Ultraschall-Schneehöhenmesser SR50-G1;Schneehöhenmessung, elektr.;eor;
+853;Chemnitz;12.87;50.79;418;2.3;20121001;20130430;Ultraschall-Schneehöhenmesser SR50-G1;Schneehöhenmessung, elektr.;eor;
+853;Chemnitz;12.87;50.79;418;2.3;20131001;20131024;Ultraschall-Schneehöhenmesser SR50-G1;Schneehöhenmessung, elektr.;eor;
+853;Chemnitz;12.87;50.79;418;2.3;20131024;20190221;Schneehöhensensor SHM 30;Schneehöhenmessung, elektr.;eor;
+generiert: 23.02.2019 --  Deutscher Wetterdienst  --

@@ -1,0 +1,10 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+151;Amberg (Mariahilf-Berg);11.87;49.45;519;1.5;19470101;19550228;Hellmann;Niederschlagsmenge, konv.;eor;
+151;Amberg;11.83;49.45;385;1;19550301;19580108;Hellmann;Niederschlagsmenge, konv.;eor;
+151;Amberg;11.85;49.45;405;1;19580109;19611103;Hellmann;Niederschlagsmenge, konv.;eor;
+151;Amberg;11.86;49.45;410;1;19611104;19840507;Hellmann;Niederschlagsmenge, konv.;eor;
+151;Amberg-Unterammersricht;11.86;49.47;386;1;19840508;19970831;Hellmann;Niederschlagsmenge, konv.;eor;
+151;Amberg-Unterammersricht;11.85;49.47;383;1;19970901;20050228;Hellmann;Niederschlagsmenge, konv.;eor;
+151;Amberg-Unterammersricht;11.85;49.47;383;1;20050301;20121023;PLUVIO;Niederschlagsmenge, elektr.;eor;
+151;Amberg-Unterammersricht;11.85;49.47;383;1;20121030;20190221;PLUVIO;Niederschlagsmenge, elektr.;eor;
+generiert: 23.02.2019 --  Deutscher Wetterdienst  --

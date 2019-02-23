@@ -1,0 +1,5 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+342;Belm;8.17;52.32;103.29;2;20101202;20130908;Feuchtesonde HMP45D;Feuchtemessung, elektr.;eor;
+342;Belm;8.17;52.32;103.29;2;20130912;20140818;Feuchtesonde HMP45D;Feuchtemessung, elektr.;eor;
+342;Belm;8.17;52.32;103.29;2;20140819;20190221;EE33;Feuchtemessung, elektr.;eor;
+generiert: 23.02.2019 --  Deutscher Wetterdienst  --

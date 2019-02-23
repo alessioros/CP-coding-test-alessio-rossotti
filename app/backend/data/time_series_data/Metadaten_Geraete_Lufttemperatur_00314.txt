@@ -1,0 +1,9 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+314;Bautzen;;;;;19450606;19550228;Gerätetyp unbekannt;Temperaturmessung, konv.;eor;
+314;Bautzen;14.44;51.18;208;2;19550301;19560715;Psychrometerthermometer (trocken);Temperaturmessung, konv.;eor;
+314;Bautzen;14.44;51.18;208;2;19560716;19620731;Psychrometerthermometer (trocken);Temperaturmessung, konv.;eor;
+314;Bautzen;14.44;51.19;210;2;19620801;19800731;Psychrometerthermometer (trocken);Temperaturmessung, konv.;eor;
+314;Bautzen;14.46;51.16;207;2;19800801;19980630;Psychrometerthermometer (trocken);Temperaturmessung, konv.;eor;
+314;Kubschütz, Kr. Bautzen;14.5;51.16;232;2;19981201;20040430;Psychrometerthermometer (trocken);Temperaturmessung, konv.;eor;
+314;Kubschütz, Kr. Bautzen;14.5;51.16;232;2;20040501;20190221;PT 100 (Luft);Temperaturmessung, elektr.;eor;
+generiert: 23.02.2019 --  Deutscher Wetterdienst  --

@@ -1,0 +1,8 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+704;Bremervörde;9.17;53.5;3;2;19980101;20020529;SONIe Sonnenenergie-Sensor;Sonnenscheindauer, elektr.;eor;
+704;Bremervörde;9.14;53.45;10.57;2;20020530;20021016;SONIe Sonnenenergie-Sensor;Sonnenscheindauer, elektr.;eor;
+704;Bremervörde;9.14;53.45;10.57;6;20021017;20061220;SONIe Sonnenenergie-Sensor;Sonnenscheindauer, elektr.;eor;
+704;Bremervörde;9.14;53.45;10.57;6;20061221;20160601;SCAPP;Sonnenscheind/Strahlungsmessung, elektr.;eor;
+704;Bremervörde;9.14;53.45;10.57;6;20160609;20180221;SCAPP;Sonnenscheind/Strahlungsmessung, elektr.;eor;
+704;Bremervörde;9.14;53.45;10.57;6;20180228;20190221;SCAPP;Sonnenscheind/Strahlungsmessung, elektr.;eor;
+generiert: 23.02.2019 --  Deutscher Wetterdienst  --

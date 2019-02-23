@@ -1,0 +1,6 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+314;Bautzen;;;;;19530101;19550228;Gerätetyp unbekannt;Sonnenscheinregistrierung, konv.;eor;
+314;Bautzen;14.44;51.18;208;2.7;19550301;19560715;Sonnenscheinschreiber nach Campbell-Stokes;Sonnenscheinregistrierung, konv.;eor;
+314;Bautzen;14.44;51.18;208;2.7;19560716;19620731;Sonnenscheinschreiber nach Campbell-Stokes;Sonnenscheinregistrierung, konv.;eor;
+314;Bautzen;14.44;51.19;210;27;19620801;19800731;Sonnenscheinschreiber nach Campbell-Stokes;Sonnenscheinregistrierung, konv.;eor;
+generiert: 23.02.2019 --  Deutscher Wetterdienst  --

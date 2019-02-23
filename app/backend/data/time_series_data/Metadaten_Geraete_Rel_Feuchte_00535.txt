@@ -1,0 +1,6 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+535;Blankenrath;7.3;50.04;400;2;19711101;19941231;Thermohygrograph;Temperatur- und Feuchtereg., konv.;eor;
+535;Blankenrath;7.31;50.04;420;2;19950101;20040531;Thermohygrograph;Temperatur- und Feuchtereg., konv.;eor;
+535;Blankenrath;7.31;50.04;420;2;20020617;20040531;Feuchtesonde HMP45D;Feuchtemessung, elektr.;eor;
+535;Blankenrath;7.31;50.04;417;2;20040601;20190221;Feuchtesonde HMP45D;Feuchtemessung, elektr.;eor;
+generiert: 23.02.2019 --  Deutscher Wetterdienst  --

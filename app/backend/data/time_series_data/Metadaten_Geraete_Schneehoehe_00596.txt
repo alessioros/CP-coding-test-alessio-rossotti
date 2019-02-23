@@ -1,0 +1,13 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+596;Boltenhagen;;;;;19470101;19511030;Gerätetyp unbekannt;Schneehöhenmessung, manuell;eor;
+596;Boltenhagen;11.23;53.98;2;;19511031;19670630;Schneepegel;Schneehöhenmessung, manuell;eor;
+596;Boltenhagen;11.19;54;15;;19670701;20090301;Schneepegel;Schneehöhenmessung, manuell;eor;
+596;Boltenhagen;11.19;54;15;2;20070814;20090430;Ultraschall-Schneehöhenmesser SR50-G1;Schneehöhenmessung, elektr.;eor;
+596;Boltenhagen;11.19;54;15;2;20091001;20100504;Ultraschall-Schneehöhenmesser SR50-G1;Schneehöhenmessung, elektr.;eor;
+596;Boltenhagen;11.19;54;15;2;20101001;20110430;Ultraschall-Schneehöhenmesser SR50-G1;Schneehöhenmessung, elektr.;eor;
+596;Boltenhagen;11.19;54;15;2;20111001;20120501;Ultraschall-Schneehöhenmesser SR50-G1;Schneehöhenmessung, elektr.;eor;
+596;Boltenhagen;11.19;54;15;2;20121001;20130430;Ultraschall-Schneehöhenmesser SR50-G1;Schneehöhenmessung, elektr.;eor;
+596;Boltenhagen;11.19;54;15;2;20131001;20131013;Ultraschall-Schneehöhenmesser SR50-G1;Schneehöhenmessung, elektr.;eor;
+596;Boltenhagen;11.19;54;15;2;20131030;20190114;Schneehöhensensor SHM 30;Schneehöhenmessung, elektr.;eor;
+596;Boltenhagen;11.19;54;15;2;20190122;20190221;Schneehöhensensor SHM 30;Schneehöhenmessung, elektr.;eor;
+generiert: 23.02.2019 --  Deutscher Wetterdienst  --

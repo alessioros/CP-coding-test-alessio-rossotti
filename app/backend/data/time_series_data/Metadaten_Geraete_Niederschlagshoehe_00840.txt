@@ -1,0 +1,7 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+840;Carlsfeld;12.61;50.43;897;2;19950301;20010913;Hellmann;Niederschlagsmenge, konv.;eor;
+840;Carlsfeld;12.61;50.43;897;2;20010913;20060704;NG 200, Tröpfchenzähler;Niederschlagsdauer, -menge, elektr.;eor;
+840;Carlsfeld;12.61;50.43;897;2;20060704;20080731;PLUVIO;Niederschlagsmenge, elektr.;eor;
+840;Carlsfeld;12.61;50.43;897;2;20080801;20110509;PLUVIO;Niederschlagsmenge, elektr.;eor;
+840;Carlsfeld;12.61;50.43;897;2;20111101;20190221;PLUVIO;Niederschlagsmenge, elektr.;eor;
+generiert: 23.02.2019 --  Deutscher Wetterdienst  --

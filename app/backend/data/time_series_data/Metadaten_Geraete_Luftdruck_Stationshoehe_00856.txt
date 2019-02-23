@@ -1,0 +1,6 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Barometerhoehe ueber NN [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+856;Chieming;12.54;47.89;549;549.4;19980101;20020627;Digitalbarometer AIR-DB;Luftdruckmessung, elektr.;eor;
+856;Chieming;12.54;47.88;551.2;552.5;20020628;20121127;Digitalbarometer AIR-DB;Luftdruckmessung, elektr.;eor;
+856;Chieming;12.54;47.88;551.2;552.5;20121128;20140317;Digitalbarometer PTB 330;Luftdruckmessung, elektr.;eor;
+856;Chieming;12.54;47.88;551.2;552;20140318;20190221;Digitalbarometer PTB 330;Luftdruckmessung, elektr.;eor;
+generiert: 23.02.2019 --  Deutscher Wetterdienst  --

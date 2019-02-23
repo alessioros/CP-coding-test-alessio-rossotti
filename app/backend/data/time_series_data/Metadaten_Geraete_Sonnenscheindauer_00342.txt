@@ -1,0 +1,5 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+342;Belm;8.17;52.32;103.29;6;20101201;20151001;SCAPP;Sonnenscheind/Strahlungsmessung, elektr.;eor;
+342;Belm;8.17;52.32;103.29;6;20151021;20151211;SCAPP;Sonnenscheind/Strahlungsmessung, elektr.;eor;
+342;Belm;8.17;52.32;103.29;6;20151216;20190221;SCAPP;Sonnenscheind/Strahlungsmessung, elektr.;eor;
+generiert: 23.02.2019 --  Deutscher Wetterdienst  --

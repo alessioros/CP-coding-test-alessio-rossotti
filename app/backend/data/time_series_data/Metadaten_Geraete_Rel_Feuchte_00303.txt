@@ -1,0 +1,9 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+303;Baruth;13.5;52.06;54.6;2;19980101;19981004;HYGROMER MP300;Feuchtemessung, elektr.;eor;
+303;Baruth;13.5;52.06;54.6;2;19980101;20060531;Thermohygrograph;Temperatur- und Feuchtereg., konv.;eor;
+303;Baruth;13.5;52.06;54.6;2;19981006;20020701;HYGROMER MP300;Feuchtemessung, elektr.;eor;
+303;Baruth;13.5;52.06;54.6;2;20020701;20060531;Feuchtesonde HMP45D;Feuchtemessung, elektr.;eor;
+303;Baruth;13.5;52.06;54.6;2;20060601;20140812;Feuchtesonde HMP45D;Feuchtemessung, elektr.;eor;
+303;Baruth;13.5;52.06;54.6;2;20060601;20060601;Thermohygrograph;Temperatur- und Feuchtereg., konv.;eor;
+303;Baruth;13.5;52.06;54.6;2;20140812;20190221;EE33;Feuchtemessung, elektr.;eor;
+generiert: 23.02.2019 --  Deutscher Wetterdienst  --

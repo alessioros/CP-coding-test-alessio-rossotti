@@ -1,0 +1,8 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+217;Attenkam;;;;;19410101;19710331;Gerätetyp unbekannt;Feuchteregistrieung, konv.;eor;
+217;Attenkam;11.36;47.88;665;2;19710401;19760228;Hygrograph nach Frankenberg;Feuchteregistrieung, konv.;eor;
+217;Attenkam;11.36;47.88;665;2;19760301;19971016;Thermohygrograph;Temperatur- und Feuchtereg., konv.;eor;
+217;Attenkam;11.36;47.88;672;2;19971017;20041231;Thermohygrograph;Temperatur- und Feuchtereg., konv.;eor;
+217;Attenkam;11.36;47.88;672;2;20050101;20171126;Feuchtesonde HMP45D;Feuchtemessung, elektr.;eor;
+217;Attenkam;11.36;47.88;672;2;20171127;20190221;EE33;Feuchtemessung, elektr.;eor;
+generiert: 23.02.2019 --  Deutscher Wetterdienst  --

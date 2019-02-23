@@ -1,0 +1,8 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+853;Chemnitz;12.89;50.81;357;25.5;19610101;19760506;Universal-Windmesser 82;Windmessung, mechanisch;eor;
+853;Chemnitz;12.87;50.79;418;15;19760507;19880731;Windmessanlage Junkalor;Windmessung, elektromechanisch;eor;
+853;Chemnitz;12.87;50.79;418;15;19880801;20050928;WMG 201;Windmessung, elektr.;eor;
+853;Chemnitz;12.87;50.79;418;12;20050928;20080704;WMG 201;Windmessung, elektr.;eor;
+853;Chemnitz;12.87;50.79;418;12;20080704;20190118;Ultrasonic Anemometer 2D;Windmessung, elektr.;eor;
+853;Chemnitz;12.87;50.79;418;12;20190131;20190221;Ultrasonic Anemometer 2D;Windmessung, elektr.;eor;
+generiert: 23.02.2019 --  Deutscher Wetterdienst  --

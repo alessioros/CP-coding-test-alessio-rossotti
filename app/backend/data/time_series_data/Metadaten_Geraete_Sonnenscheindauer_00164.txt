@@ -1,0 +1,15 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+164;Angermünde;13.99;53.01;48;17;19510101;19520910;Sonnenscheinschreiber nach Campbell-Stokes;Sonnenscheinregistrierung, konv.;eor;
+164;Angermünde;13.99;53.01;48;17;19530601;19790110;Sonnenscheinschreiber nach Campbell-Stokes;Sonnenscheinregistrierung, konv.;eor;
+164;Angermünde;13.99;53.03;56;2;19790111;20060915;Sonnenscheinschreiber nach Campbell-Stokes;Sonnenscheinregistrierung, konv.;eor;
+164;Angermünde;13.99;53.03;56;17;19790111;19790111;Sonnenscheinschreiber nach Campbell-Stokes;Sonnenscheinregistrierung, konv.;eor;
+164;Angermünde;13.99;53.03;56;2.2;19920910;19971216;SONIe Sonnenenergie-Sensor;Sonnenscheindauer, elektr.;eor;
+164;Angermünde;13.99;53.03;56;2.2;19980106;20060913;SONIe Sonnenenergie-Sensor;Sonnenscheindauer, elektr.;eor;
+164;Angermünde;13.99;53.03;56;2.2;20060915;20070123;SONIe Sonnenenergie-Sensor;Sonnenscheindauer, elektr.;eor;
+164;Angermünde;13.99;53.03;56;3;20070124;20090129;SCAPP;Sonnenscheind/Strahlungsmessung, elektr.;eor;
+164;Angermünde;13.99;53.03;56;6;20090130;20110228;SCAPP;Sonnenscheind/Strahlungsmessung, elektr.;eor;
+164;Angermünde;13.99;53.03;56;6;20110316;20160517;SCAPP;Sonnenscheind/Strahlungsmessung, elektr.;eor;
+164;Angermünde;13.99;53.03;56;6;20160519;20160703;SCAPP;Sonnenscheind/Strahlungsmessung, elektr.;eor;
+164;Angermünde;13.99;53.03;56;6;20160714;20161101;SCAPP;Sonnenscheind/Strahlungsmessung, elektr.;eor;
+164;Angermünde;13.99;53.03;53.9;6;20161102;20190221;SCAPP;Sonnenscheind/Strahlungsmessung, elektr.;eor;
+generiert: 23.02.2019 --  Deutscher Wetterdienst  --

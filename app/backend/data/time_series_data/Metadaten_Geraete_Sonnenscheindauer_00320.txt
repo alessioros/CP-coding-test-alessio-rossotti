@@ -1,0 +1,14 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+320;Bayreuth;;;;;19500521;19500531;Gerätetyp unbekannt;Sonnenscheinregistrierung, konv.;eor;
+320;Bayreuth;11.58;49.94;341;9;19500601;19520122;Sonnenscheinschreiber nach Campbell-Stokes;Sonnenscheinregistrierung, konv.;eor;
+320;Bayreuth;11.58;49.96;358;9;19520123;19561126;Sonnenscheinschreiber nach Campbell-Stokes;Sonnenscheinregistrierung, konv.;eor;
+320;Bayreuth;11.56;49.93;358;1.5;19561127;19570409;Sonnenscheinschreiber nach Campbell-Stokes;Sonnenscheinregistrierung, konv.;eor;
+320;Bayreuth;11.6;49.97;370;1.5;19570410;19620401;Sonnenscheinschreiber nach Campbell-Stokes;Sonnenscheinregistrierung, konv.;eor;
+320;Bayreuth;11.55;49.96;330;15;19620402;19950430;Sonnenscheinschreiber nach Campbell-Stokes;Sonnenscheinregistrierung, konv.;eor;
+320;Bayreuth;11.55;49.96;330;18;19950501;19980630;Sonnenscheinschreiber nach Campbell-Stokes;Sonnenscheinregistrierung, konv.;eor;
+320;Bayreuth;11.55;49.96;330;12;19980701;20060630;Sonnenscheinschreiber nach Campbell-Stokes;Sonnenscheinregistrierung, konv.;eor;
+320;Bayreuth;11.55;49.96;330;2;20060511;20060630;SONIe Sonnenenergie-Sensor;Sonnenscheindauer, elektr.;eor;
+320;Heinersreuth-Vollhof;11.52;49.97;350;2;20060701;20121029;SONIe Sonnenenergie-Sensor;Sonnenscheindauer, elektr.;eor;
+320;Heinersreuth-Vollhof;11.52;49.97;350;2;20121109;20150221;SONIe Sonnenenergie-Sensor;Sonnenscheindauer, elektr.;eor;
+320;Heinersreuth-Vollhof;11.52;49.97;350;2;20150224;20190221;SONIe Sonnenenergie-Sensor;Sonnenscheindauer, elektr.;eor;
+generiert: 23.02.2019 --  Deutscher Wetterdienst  --

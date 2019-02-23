@@ -1,0 +1,8 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Barometerhoehe ueber NN [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+662;Braunschweig;10.45;52.29;81.2;82.6;19610101;19720531;Stationsbarometer;Luftdruckmessung, konv.;eor;
+662;Braunschweig;10.45;52.29;81.2;87.5;19720601;19890228;Stationsbarometer;Luftdruckmessung, konv.;eor;
+662;Braunschweig;10.45;52.29;81.2;87.5;19971023;20120124;Digitalbarometer AIR-DB;Luftdruckmessung, elektr.;eor;
+662;Braunschweig;10.45;52.29;81.2;87.5;20120125;20140901;Luftdrucksensor Vaisala PTB 220;Luftdruckmessung, elektr.;eor;
+662;Braunschweig;10.45;52.29;81.2;82.16;20140902;20180425;Digitalbarometer PTB 330;Luftdruckmessung, elektr.;eor;
+662;Braunschweig;10.45;52.29;81.44;81.99;20180426;20190221;Digitalbarometer PTB 330;Luftdruckmessung, elektr.;eor;
+generiert: 23.02.2019 --  Deutscher Wetterdienst  --

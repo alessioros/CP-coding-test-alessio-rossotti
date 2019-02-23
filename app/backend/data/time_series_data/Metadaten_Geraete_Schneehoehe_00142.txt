@@ -1,0 +1,4 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+142;Altomünster-Maisbrunn;;;;;19550101;20051130;Gerätetyp unbekannt;Schneehöhenmessung, manuell;eor;
+142;Altomünster-Maisbrunn;11.31;48.41;510;;20051201;20190221;Schneepegel;Schneehöhenmessung, manuell;eor;
+generiert: 23.02.2019 --  Deutscher Wetterdienst  --

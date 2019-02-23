@@ -1,0 +1,4 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+704;Bremervörde;9.17;53.5;3;10;19790401;20020529;Windsensor Classic 4.3303;Windmessung, elektr.;eor;
+704;Bremervörde;9.14;53.45;10.57;10;20020530;20190221;Windsensor Classic 4.3303;Windmessung, elektr.;eor;
+generiert: 23.02.2019 --  Deutscher Wetterdienst  --

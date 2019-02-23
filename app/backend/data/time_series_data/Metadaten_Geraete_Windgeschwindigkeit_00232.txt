@@ -1,0 +1,9 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+232;Augsburg-Kriegshaber;10.85;48.38;477;29.5;19610101;19640331;Windmessanlage SIAP;Windmessung, elektromechanisch;eor;
+232;Augsburg-Kriegshaber;10.85;48.38;477;29.5;19640401;19790531;Universal-Windschreiber 90;Windmessung, elektromechanisch;eor;
+232;Augsburg;10.93;48.43;461;10;19790601;19960422;Universal-Windschreiber 90;Windmessung, elektromechanisch;eor;
+232;Augsburg;10.93;48.43;461;10;19960423;19980318;Windsensor Classic 4.3303;Windmessung, elektr.;eor;
+232;Augsburg;10.94;48.43;462;10;19980319;20061214;Windsensor Classic 4.3303;Windmessung, elektr.;eor;
+232;Augsburg;10.94;48.43;461.4;10;20061215;20100309;Windsensor Classic 4.3303;Windmessung, elektr.;eor;
+232;Augsburg;10.94;48.43;461.4;10;20100310;20190221;Windsensor Classic 4.3303;Windmessung, elektr.;eor;
+generiert: 23.02.2019 --  Deutscher Wetterdienst  --

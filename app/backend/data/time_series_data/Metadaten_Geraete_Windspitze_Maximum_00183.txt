@@ -1,0 +1,26 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+183;Arkona;13.43;54.68;42;27;19791101;19850909;Windmessanlage Junkalor;Windmessung, elektromechanisch;eor;
+183;Arkona;13.43;54.68;42;24;19850909;19880311;Windmessanlage EAL;Windmessung, elektromechanisch;eor;
+183;Arkona;13.43;54.68;42;24;19880311;19900226;WMG 201;Windmessung, elektr.;eor;
+183;Arkona;13.43;54.68;42;24;19900228;19901101;WMG 201;Windmessung, elektr.;eor;
+183;Arkona;13.43;54.68;42;24;19901108;19930319;WMG 201;Windmessung, elektr.;eor;
+183;Arkona;13.43;54.68;42;24;19930325;19930705;WMG 201;Windmessung, elektr.;eor;
+183;Arkona;13.43;54.68;42;24;19930707;19940904;WMG 201;Windmessung, elektr.;eor;
+183;Arkona;13.43;54.68;42;24;19940906;19950123;WMG 201;Windmessung, elektr.;eor;
+183;Arkona;13.43;54.68;42;24;19950125;19970607;WMG 201;Windmessung, elektr.;eor;
+183;Arkona;13.43;54.68;42;24;19970611;19971002;WMG 201;Windmessung, elektr.;eor;
+183;Arkona;13.43;54.68;42;24;19971008;19990307;WMG 201;Windmessung, elektr.;eor;
+183;Arkona;13.43;54.68;42;24;19990310;19990311;WMG 201;Windmessung, elektr.;eor;
+183;Arkona;13.43;54.68;42;24;19990317;19990318;WMG 201;Windmessung, elektr.;eor;
+183;Arkona;13.43;54.68;42;24;19990324;19990410;WMG 201;Windmessung, elektr.;eor;
+183;Arkona;13.43;54.68;42;24;19990419;20010207;WMG 201;Windmessung, elektr.;eor;
+183;Arkona;13.43;54.68;42;24;20010213;20010227;WMG 201;Windmessung, elektr.;eor;
+183;Arkona;13.43;54.68;42;24;20010308;20060711;WMG 201;Windmessung, elektr.;eor;
+183;Arkona;13.43;54.68;42;24;20060724;20060808;WMG 201;Windmessung, elektr.;eor;
+183;Arkona;13.43;54.68;42;24;20060811;20080524;WMG 201;Windmessung, elektr.;eor;
+183;Arkona;13.43;54.68;42;24;20080617;20090610;WMG 201;Windmessung, elektr.;eor;
+183;Arkona;13.43;54.68;42;24;20090610;20130416;Ultrasonic Anemometer 2D;Windmessung, elektr.;eor;
+183;Arkona;13.43;54.68;42;24;20130502;20170203;Ultrasonic Anemometer 2D;Windmessung, elektr.;eor;
+183;Arkona;13.43;54.68;42;24;20170214;20170313;Ultrasonic Anemometer 2D;Windmessung, elektr.;eor;
+183;Arkona;13.43;54.68;42;24;20180327;20190221;Ultrasonic Anemometer 2D;Windmessung, elektr.;eor;
+generiert: 23.02.2019 --  Deutscher Wetterdienst  --

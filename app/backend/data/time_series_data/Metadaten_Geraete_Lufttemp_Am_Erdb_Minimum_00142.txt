@@ -1,0 +1,8 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+142;Altomünster;11.26;48.39;520;.05;19550101;19590728;Minimumthermometer;Temperaturmessung, konv.;eor;
+142;Altomünster;11.25;48.39;508;.05;19590801;19641122;Minimumthermometer;Temperaturmessung, konv.;eor;
+142;Altomünster;11.25;48.39;502;.05;19641201;19961031;Minimumthermometer;Temperaturmessung, konv.;eor;
+142;Altomünster-Pipinsried;11.29;48.41;500;.05;19961101;20051130;Minimumthermometer;Temperaturmessung, konv.;eor;
+142;Altomünster-Pipinsried;11.29;48.41;500;.05;20051026;20051130;PT 100 (Luft);Temperaturmessung, elektr.;eor;
+142;Altomünster-Maisbrunn;11.31;48.41;510;.05;20051201;20190221;PT 100 (Luft);Temperaturmessung, elektr.;eor;
+generiert: 23.02.2019 --  Deutscher Wetterdienst  --

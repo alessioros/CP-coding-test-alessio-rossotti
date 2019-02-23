@@ -1,0 +1,4 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+259;Müllheim;;;;;19470101;20031026;Gerätetyp unbekannt;Schneehöhenmessung, manuell;eor;
+259;Müllheim;7.64;47.81;273;;20031027;20190221;Schneepegel;Schneehöhenmessung, manuell;eor;
+generiert: 23.02.2019 --  Deutscher Wetterdienst  --

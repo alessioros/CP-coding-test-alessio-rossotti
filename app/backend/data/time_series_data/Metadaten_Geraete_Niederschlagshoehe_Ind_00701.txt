@@ -1,0 +1,7 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+701;Bremerhaven;8.58;53.53;6.45;1;19980610;20050509;Niederschlags-Detektor;Niederschlagsdauer, elektr.;eor;
+701;Bremerhaven;8.58;53.53;6.45;1;20050510;20150204;Niederschlagswächter;Niederschlagsdauer, elektr.;eor;
+701;Bremerhaven;8.58;53.53;6.45;1;20150205;20160908;Niederschlagswächter;Niederschlagsdauer, elektr.;eor;
+701;Bremerhaven;8.58;53.53;6.45;1;20160915;20171219;Niederschlagswächter;Niederschlagsdauer, elektr.;eor;
+701;Bremerhaven;8.58;53.53;6.45;1;20171227;20190221;Niederschlagswächter;Niederschlagsdauer, elektr.;eor;
+generiert: 23.02.2019 --  Deutscher Wetterdienst  --

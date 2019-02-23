@@ -1,0 +1,8 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+198;Artern;11.3;51.37;154;1;19540101;19580630;Hellmann;Niederschlagsmenge, konv.;eor;
+198;Artern;11.29;51.37;164;1;19580701;19601031;Hellmann;Niederschlagsmenge, konv.;eor;
+198;Artern;11.29;51.37;164;1;19601101;19900620;Hellmann;Niederschlagsmenge, konv.;eor;
+198;Artern;11.29;51.37;164;1;19900621;20060906;NG 200, Tröpfchenzähler;Niederschlagsdauer, -menge, elektr.;eor;
+198;Artern;11.29;51.37;164;1;20060906;20180417;PLUVIO;Niederschlagsmenge, elektr.;eor;
+198;Artern;11.29;51.37;164;1;20180417;20190221;rain[e]H3, Wägetechnologie;Niederschlagsmenge, elektr.;eor;
+generiert: 23.02.2019 --  Deutscher Wetterdienst  --

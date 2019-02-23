@@ -1,0 +1,6 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+4878;Stiege;10.88;51.67;496;2;19580301;19890630;Psychrometerthermometer (trocken);Temperaturmessung, konv.;eor;
+4878;Stiege;10.88;51.67;494;2;20050201;20091231;PT 100 (Luft);Temperaturmessung, elektr.;eor;
+4878;Oberharz am Brocken-Stiege;10.88;51.67;494;2;20100101;20131212;PT 100 (Luft);Temperaturmessung, elektr.;eor;
+4878;Oberharz am Brocken-Stiege;10.88;51.66;504;2;20170701;20190221;PT 100 (Luft);Temperaturmessung, elektr.;eor;
+generiert: 23.02.2019 --  Deutscher Wetterdienst  --

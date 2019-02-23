@@ -1,0 +1,12 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+303;Baruth;13.5;52.06;54.6;18;19930906;19931004;WMG 201;Windmessung, elektr.;eor;
+303;Baruth;13.5;52.06;54.6;18;19931008;19931209;WMG 201;Windmessung, elektr.;eor;
+303;Baruth;13.5;52.06;54.6;18;19931215;19940905;WMG 201;Windmessung, elektr.;eor;
+303;Baruth;13.5;52.06;54.6;18;19940907;19940923;WMG 201;Windmessung, elektr.;eor;
+303;Baruth;13.5;52.06;54.6;18;19940926;19981004;WMG 201;Windmessung, elektr.;eor;
+303;Baruth;13.5;52.06;54.6;18;19981006;20060531;WMG 201;Windmessung, elektr.;eor;
+303;Baruth;13.5;52.06;54.6;18;20060601;20090415;WMG 201;Windmessung, elektr.;eor;
+303;Baruth;13.5;52.06;54.6;18;20090415;20121220;Ultrasonic Anemometer 2D;Windmessung, elektr.;eor;
+303;Baruth;13.5;52.06;54.6;18;20130109;20141013;Ultrasonic Anemometer 2D;Windmessung, elektr.;eor;
+303;Baruth;13.5;52.06;54.6;18;20141024;20190221;Ultrasonic Anemometer 2D;Windmessung, elektr.;eor;
+generiert: 23.02.2019 --  Deutscher Wetterdienst  --

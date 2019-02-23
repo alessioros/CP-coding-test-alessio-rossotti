@@ -1,0 +1,11 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+701;Bremerhaven (Signalturm);;;;;19490101;19490531;Gerätetyp unbekannt;Feuchteregistrieung, konv.;eor;
+701;Bremerhaven (Signalturm);8.55;53.57;6;2;19490601;19620415;Hygrograph nach Frankenberg;Feuchteregistrieung, konv.;eor;
+701;Bremerhaven;8.58;53.53;6;2;19620416;19980609;Hygrograph nach Frankenberg;Feuchteregistrieung, konv.;eor;
+701;Bremerhaven;8.58;53.53;6;2;19620416;19980609;Thermohygrograph;Temperatur- und Feuchtereg., konv.;eor;
+701;Bremerhaven;8.58;53.53;6.45;2;19980610;20140722;Feuchtesonde HMP45D;Feuchtemessung, elektr.;eor;
+701;Bremerhaven;8.58;53.53;6.45;2;19980610;20030902;Hygrograph nach Frankenberg;Feuchteregistrieung, konv.;eor;
+701;Bremerhaven;8.58;53.53;6.45;2;19980610;20061116;Thermohygrograph;Temperatur- und Feuchtereg., konv.;eor;
+701;Bremerhaven;8.58;53.53;6.45;2;20140723;20150204;EE33;Feuchtemessung, elektr.;eor;
+701;Bremerhaven;8.58;53.53;6.45;2;20150205;20190221;EE33;Feuchtemessung, elektr.;eor;
+generiert: 23.02.2019 --  Deutscher Wetterdienst  --

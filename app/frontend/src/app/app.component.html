@@ -1,0 +1,39 @@
+<div class="mainContainer">
+  <div id="app_title" class="cpTitle">
+    {{title}}
+  </div>
+  <div class="content">
+    <div class="controls">
+      <div class="varSelector">
+        <h4>Select variable:</h4>
+        <mat-select
+          placeholder="Variables"
+          name="selectedVar"
+          [(value)]="selVariable"
+          (selectionChange)="plotSeries()">
+          <mat-option *ngFor="let variableName of variablesNames" [value]="variableName">
+            {{variableName}}
+          </mat-option>
+        </mat-select>
+      </div>
+      <div class="stationSelector">
+        <h4>Select station Id:</h4>
+        <mat-select
+          placeholder="Station"
+          name="selectedStation"
+          [(value)]="selStation"
+          (selectionChange)="plotSeries()">
+          <mat-option *ngFor="let stationId of stationsIds" [value]="stationId">
+            {{stationId}}
+          </mat-option>
+        </mat-select>
+      </div>
+      <div class="downloadButton">
+        <button mat-raised-button color="primary" (click)="downloadFiles()">Load Files</button>
+      </div>
+    </div>
+    <hr>
+  </div>
+</div>
+
+<router-outlet></router-outlet>

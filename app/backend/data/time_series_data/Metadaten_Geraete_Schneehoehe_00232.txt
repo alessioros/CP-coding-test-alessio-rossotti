@@ -1,0 +1,13 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+232;Augsburg;;;;;19470101;19790531;Gerätetyp unbekannt;Schneehöhenmessung, manuell;eor;
+232;Augsburg;10.93;48.43;461;;19790601;19980318;Schneepegel;Schneehöhenmessung, manuell;eor;
+232;Augsburg;10.94;48.43;462;;19980319;20061214;Schneepegel;Schneehöhenmessung, manuell;eor;
+232;Augsburg;10.94;48.43;461.4;;20061215;20100309;Schneepegel;Schneehöhenmessung, manuell;eor;
+232;Augsburg;10.94;48.43;461.4;;20100310;20130916;Schneepegel;Schneehöhenmessung, manuell;eor;
+232;Augsburg;10.94;48.43;461.4;2.3;20101122;20101231;Ultraschall-Schneehöhenmesser SR50-G1;Schneehöhenmessung, elektr.;eor;
+232;Augsburg;10.94;48.43;461.4;2.3;20110121;20110430;Ultraschall-Schneehöhenmesser SR50-G1;Schneehöhenmessung, elektr.;eor;
+232;Augsburg;10.94;48.43;461.4;2.3;20111001;20120501;Ultraschall-Schneehöhenmesser SR50-G1;Schneehöhenmessung, elektr.;eor;
+232;Augsburg;10.94;48.43;461.4;2.3;20121001;20121201;Ultraschall-Schneehöhenmesser SR50-G1;Schneehöhenmessung, elektr.;eor;
+232;Augsburg;10.94;48.43;461.4;2.3;20130103;20130430;Ultraschall-Schneehöhenmesser SR50-G1;Schneehöhenmessung, elektr.;eor;
+232;Augsburg;10.94;48.43;461.4;2.3;20131001;20190221;Schneehöhensensor SHM 30;Schneehöhenmessung, elektr.;eor;
+generiert: 23.02.2019 --  Deutscher Wetterdienst  --

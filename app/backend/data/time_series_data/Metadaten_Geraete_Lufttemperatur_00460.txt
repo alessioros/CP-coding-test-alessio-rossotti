@@ -1,0 +1,5 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+460;Berus;6.69;49.26;363;2;19510101;20060629;Psychrometerthermometer (trocken);Temperaturmessung, konv.;eor;
+460;Berus;6.69;49.26;363;2;19930930;20060629;PT 100 (Luft);Temperaturmessung, elektr.;eor;
+460;Berus;6.69;49.26;363;2;20060630;20190221;PT 100 (Luft);Temperaturmessung, elektr.;eor;
+generiert: 23.02.2019 --  Deutscher Wetterdienst  --

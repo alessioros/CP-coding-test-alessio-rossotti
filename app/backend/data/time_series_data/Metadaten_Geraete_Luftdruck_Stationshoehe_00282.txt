@@ -1,0 +1,5 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Barometerhoehe ueber NN [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+282;Bamberg;10.91;49.88;239;243.3;19950324;20081125;Digitalbarometer AIR-DB;Luftdruckmessung, elektr.;eor;
+282;Bamberg;10.92;49.87;240;240.9;20081126;20100304;Digitalbarometer AIR-DB;Luftdruckmessung, elektr.;eor;
+282;Bamberg;10.92;49.87;240;240.9;20100305;20190221;Digitalbarometer PTB 330;Luftdruckmessung, elektr.;eor;
+generiert: 23.02.2019 --  Deutscher Wetterdienst  --

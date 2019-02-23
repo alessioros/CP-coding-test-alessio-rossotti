@@ -1,0 +1,4 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+167;Anklam;13.68;53.84;9;2;20040901;20080914;SONIe Sonnenenergie-Sensor;Sonnenscheindauer, elektr.;eor;
+167;Anklam;13.68;53.84;9;2;20081029;20190221;SONIe Sonnenenergie-Sensor;Sonnenscheindauer, elektr.;eor;
+generiert: 23.02.2019 --  Deutscher Wetterdienst  --

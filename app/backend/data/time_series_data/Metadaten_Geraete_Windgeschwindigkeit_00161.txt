@@ -1,0 +1,5 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+161;Andernach;7.42;50.44;62;10;19801201;20070418;Windsensor Classic 4.3303;Windmessung, elektr.;eor;
+161;Andernach;7.42;50.42;75;10;20110901;20141017;Ultrasonic Anemometer 2D;Windmessung, elektr.;eor;
+161;Andernach;7.42;50.42;75;10;20141030;20190221;Ultrasonic Anemometer 2D;Windmessung, elektr.;eor;
+generiert: 23.02.2019 --  Deutscher Wetterdienst  --

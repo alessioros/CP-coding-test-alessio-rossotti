@@ -1,0 +1,8 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+232;Augsburg;10.94;48.43;462;1;19980319;20061214;Niederschlags-Detektor;Niederschlagsdauer, elektr.;eor;
+232;Augsburg;10.94;48.43;461.4;1;20061215;20070318;Niederschlags-Detektor;Niederschlagsdauer, elektr.;eor;
+232;Augsburg;10.94;48.43;461.4;1;20070319;20070829;Niederschlagswächter;Niederschlagsdauer, elektr.;eor;
+232;Augsburg;10.94;48.43;461.4;1;20070830;20100309;Niederschlags-Detektor;Niederschlagsdauer, elektr.;eor;
+232;Augsburg;10.94;48.43;461.4;1;20100310;20100506;Niederschlags-Detektor;Niederschlagsdauer, elektr.;eor;
+232;Augsburg;10.94;48.43;461.4;1;20100507;20190221;Niederschlagswächter;Niederschlagsdauer, elektr.;eor;
+generiert: 23.02.2019 --  Deutscher Wetterdienst  --

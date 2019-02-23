@@ -1,0 +1,10 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Barometerhoehe ueber NN [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+591;Boizenburg;10.69;53.39;45;45.9;19470101;19730301;Stationsbarometer;Luftdruckmessung, konv.;eor;
+591;Boizenburg;10.69;53.39;45;45.9;19760101;19840527;Absolutdruckwandler (ADMW);Luftdruckmessung, elektr.;eor;
+591;Boizenburg;10.69;53.39;45;45.9;19840612;19890414;Absolutdruckwandler (ADMW);Luftdruckmessung, elektr.;eor;
+591;Boizenburg;10.69;53.39;45;45.9;19901004;19920917;Absolutdruckwandler (ADMW);Luftdruckmessung, elektr.;eor;
+591;Boizenburg;10.69;53.39;45;45.9;19920917;19921126;Digitalbarometer AIR-DB;Luftdruckmessung, elektr.;eor;
+591;Boizenburg;10.69;53.39;45;45.9;19921130;19940219;Digitalbarometer AIR-DB;Luftdruckmessung, elektr.;eor;
+591;Boizenburg;10.69;53.39;45;45.9;19940221;20080513;Digitalbarometer AIR-DB;Luftdruckmessung, elektr.;eor;
+591;Boizenburg;10.69;53.39;45;45.9;20080513;20190221;Digitalbarometer PTB 330;Luftdruckmessung, elektr.;eor;
+generiert: 23.02.2019 --  Deutscher Wetterdienst  --

@@ -1,0 +1,5 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+722;Brocken;;;;;18960101;19470831;Gerätetyp unbekannt;Schneehöhenmessung, manuell;eor;
+722;Brocken;10.62;51.8;1142;;19470901;19970829;Schneepegel;Schneehöhenmessung, manuell;eor;
+722;Brocken;10.62;51.8;1133.9;;19970830;20190221;Schneepegel;Schneehöhenmessung, manuell;eor;
+generiert: 23.02.2019 --  Deutscher Wetterdienst  --

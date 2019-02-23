@@ -1,0 +1,5 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+330;Beerfelden;8.97;49.56;442;;19370101;19721217;Schneepegel;Schneehöhenmessung, manuell;eor;
+330;Beerfelden;8.97;49.56;450;;19721218;20171231;Schneepegel;Schneehöhenmessung, manuell;eor;
+330;Oberzent-Beerfelden;8.97;49.56;450;;20180101;20190221;Schneepegel;Schneehöhenmessung, manuell;eor;
+generiert: 23.02.2019 --  Deutscher Wetterdienst  --

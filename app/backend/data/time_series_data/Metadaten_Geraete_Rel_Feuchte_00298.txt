@@ -1,0 +1,24 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+298;Barth;;;;;19470101;19491231;Gerätetyp unbekannt;Feuchteregistrieung, konv.;eor;
+298;Barth;12.75;54.36;20;2;19500101;19530430;Hygrograph nach Frankenberg;Feuchteregistrieung, konv.;eor;
+298;Barth;12.72;54.36;4;2;19530501;19560520;Hygrograph nach Frankenberg;Feuchteregistrieung, konv.;eor;
+298;Barth;12.72;54.34;4;2;19620115;19930708;Hygrograph nach Frankenberg;Feuchteregistrieung, konv.;eor;
+298;Barth;12.72;54.34;4;2;19751011;19920930;Lithium_Chlorid-Taupunktfühler;Feuchtemessung, elektr.;eor;
+298;Barth;12.72;54.34;4;2;19800428;19800508;Elektrisches Aspirationspsychrometer-1 (EAP-1);Feuchtemessung, elektr.;eor;
+298;Barth;12.72;54.34;4;2;19800606;19901128;Elektrisches Aspirationspsychrometer-1 (EAP-1);Feuchtemessung, elektr.;eor;
+298;Barth;12.72;54.34;4;2;19901129;19911031;Elektrisches Aspirationspsychrometer-2 (EAP-2);Feuchtemessung, elektr.;eor;
+298;Barth;12.72;54.34;4;2;19920930;19930714;HYGROMER MP300;Feuchtemessung, elektr.;eor;
+298;Barth;12.72;54.34;4;2;19930708;19930714;Thermohygrograph;Temperatur- und Feuchtereg., konv.;eor;
+298;Barth;12.71;54.34;7;2;19930715;19930823;HYGROMER MP300;Feuchtemessung, elektr.;eor;
+298;Barth;12.71;54.34;7;2;19930715;20070430;Thermohygrograph;Temperatur- und Feuchtereg., konv.;eor;
+298;Barth;12.71;54.34;7;2;19930825;19940428;HYGROMER MP300;Feuchtemessung, elektr.;eor;
+298;Barth;12.71;54.34;7;2;19940502;19951231;HYGROMER MP300;Feuchtemessung, elektr.;eor;
+298;Barth;12.71;54.34;7;2;19960103;19971129;HYGROMER MP300;Feuchtemessung, elektr.;eor;
+298;Barth;12.71;54.34;7;2;19971201;20010626;HYGROMER MP300;Feuchtemessung, elektr.;eor;
+298;Barth;12.71;54.34;7;2;20010628;20041202;HYGROMER MP300;Feuchtemessung, elektr.;eor;
+298;Barth;12.71;54.34;7;2;20041202;20060825;Feuchtesonde HMP45D;Feuchtemessung, elektr.;eor;
+298;Barth;12.71;54.34;7;2;20060828;20070430;Feuchtesonde HMP45D;Feuchtemessung, elektr.;eor;
+298;Barth;12.71;54.34;3;2;20070501;20140728;Feuchtesonde HMP45D;Feuchtemessung, elektr.;eor;
+298;Barth;12.71;54.34;3;2;20070501;20070511;Thermohygrograph;Temperatur- und Feuchtereg., konv.;eor;
+298;Barth;12.71;54.34;3;2;20140728;20190221;EE33;Feuchtemessung, elektr.;eor;
+generiert: 23.02.2019 --  Deutscher Wetterdienst  --

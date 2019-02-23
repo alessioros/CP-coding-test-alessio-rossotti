@@ -1,0 +1,9 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+151;Amberg;11.83;49.45;385;.05;19550301;19580108;Minimumthermometer;Temperaturmessung, konv.;eor;
+151;Amberg;11.85;49.45;405;.05;19580109;19611103;Minimumthermometer;Temperaturmessung, konv.;eor;
+151;Amberg;11.86;49.45;410;.05;19611104;19840507;Minimumthermometer;Temperaturmessung, konv.;eor;
+151;Amberg-Unterammersricht;11.86;49.47;386;.05;19840508;19970831;Minimumthermometer;Temperaturmessung, konv.;eor;
+151;Amberg-Unterammersricht;11.85;49.47;383;.05;19970901;20050228;Minimumthermometer;Temperaturmessung, konv.;eor;
+151;Amberg-Unterammersricht;11.85;49.47;383;.05;20050301;20121023;PT 100 (Luft);Temperaturmessung, elektr.;eor;
+151;Amberg-Unterammersricht;11.85;49.47;383;.05;20121030;20190221;PT 100 (Luft);Temperaturmessung, elektr.;eor;
+generiert: 23.02.2019 --  Deutscher Wetterdienst  --

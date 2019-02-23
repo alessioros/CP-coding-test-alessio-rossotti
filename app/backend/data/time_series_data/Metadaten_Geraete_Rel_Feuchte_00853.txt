@@ -1,0 +1,12 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+853;Chemnitz;;;;;18820101;19910804;Gerätetyp unbekannt;Feuchteregistrieung, konv.;eor;
+853;Chemnitz;12.89;50.81;357;2;19460521;19490526;Thermohygrograph;Temperatur- und Feuchtereg., konv.;eor;
+853;Chemnitz;12.89;50.81;357;2;19490601;19550608;Thermohygrograph;Temperatur- und Feuchtereg., konv.;eor;
+853;Chemnitz;12.89;50.81;357;2;19550721;19760506;Thermohygrograph;Temperatur- und Feuchtereg., konv.;eor;
+853;Chemnitz;12.87;50.79;418;2;19760511;19910805;Thermohygrograph;Temperatur- und Feuchtereg., konv.;eor;
+853;Chemnitz;12.87;50.79;418;2;19910805;19920308;Hygrograph nach Frankenberg;Feuchteregistrieung, konv.;eor;
+853;Chemnitz;12.87;50.79;418;2;19920308;20030205;Thermohygrograph;Temperatur- und Feuchtereg., konv.;eor;
+853;Chemnitz;12.87;50.79;418;2;19920708;20040125;HYGROMER MP100;Feuchtemessung, elektr.;eor;
+853;Chemnitz;12.87;50.79;418;2;20040126;20140722;Feuchtesonde HMP45D;Feuchtemessung, elektr.;eor;
+853;Chemnitz;12.87;50.79;418;2;20140722;20190221;EE33;Feuchtemessung, elektr.;eor;
+generiert: 23.02.2019 --  Deutscher Wetterdienst  --

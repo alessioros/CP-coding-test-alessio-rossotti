@@ -1,0 +1,8 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+257;Baden-Baden;8.24;48.77;211;.05;19600601;19761011;Minimumthermometer;Temperaturmessung, konv.;eor;
+257;Baden-Baden;8.26;48.76;280;.05;19761012;19820630;Minimumthermometer;Temperaturmessung, konv.;eor;
+257;Baden-Baden;8.23;48.76;193;.05;19820701;19831231;Minimumthermometer;Temperaturmessung, konv.;eor;
+257;Baden-Baden;8.26;48.77;218;.05;19840201;19910820;Minimumthermometer;Temperaturmessung, konv.;eor;
+257;Baden-Baden-Geroldsau;8.25;48.73;240;.05;19910821;20030218;Minimumthermometer;Temperaturmessung, konv.;eor;
+257;Baden-Baden-Geroldsau;8.25;48.73;240;.05;20020808;20190221;PT 100 (Luft);Temperaturmessung, elektr.;eor;
+generiert: 23.02.2019 --  Deutscher Wetterdienst  --
